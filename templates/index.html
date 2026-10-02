@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>AI Customer Support Ticket Triage</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 850px; margin: 40px auto; padding: 0 20px; }
+        textarea { width: 100%; padding: 12px; font-size: 16px; box-sizing: border-box; }
+        button { margin-top: 12px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+        .card { margin-top: 25px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; }
+        .review { font-weight: bold; }
+        .small { color: #666; }
+    </style>
+</head>
+<body>
+    <h1>AI Customer Support Ticket Triage</h1>
+    <p class="small">Enter a support ticket. The AI predicts category, urgency and support queue.</p>
+
+    <form method="post">
+        <textarea name="ticket" rows="6" placeholder="Example: My payment was charged twice...">{{ ticket }}</textarea>
+        <button type="submit">Predict Ticket</button>
+    </form>
+
+    {% if result %}
+    <div class="card">
+        <h2>Prediction</h2>
+        <p><b>Category:</b> {{ result.category }}</p>
+        <p><b>Urgency:</b> {{ result.urgency }}</p>
+        <p><b>Support Queue:</b> {{ result.queue }}</p>
+        <p><b>Category confidence:</b> {{ result.category_confidence }}</p>
+        <p><b>Urgency confidence:</b> {{ result.urgency_confidence }}</p>
+        <p><b>Overall confidence:</b> {{ result.confidence }}</p>
+        {% if result.human_review %}
+        <p class="review">⚠ Low-confidence prediction — send for human review.</p>
+        {% else %}
+        <p>✓ Prediction can be routed automatically.</p>
+        {% endif %}
+    </div>
+    {% endif %}
+</body>
+</html>
