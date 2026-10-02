@@ -1,0 +1,1201 @@
+ticket_id,ticket_text,category,urgency
+TKT-01179,"Hello support, Which subscription includes analytics? There is no immediate rush. I appreciate your help.",product,low
+TKT-00866,Could you please help? How do I update my phone number? Please advise.,account,low
+TKT-00102,"Hi team, My invoice has the wrong tax amount. The issue is important but not an emergency. Please advise.",billing,medium
+TKT-00440,"Hi team, The website is loading extremely slowly. The issue is important but not an emergency. Thanks.",technical,medium
+TKT-00059,Could you please help? I need a refund for an order I placed yesterday. I need help immediately because I cannot continue. I appreciate your help.,billing,high
+TKT-01121,Does the basic plan include this functionality?,product,low
+TKT-00324,"Support team, The page keeps timing out before it finishes loading. This is a critical issue and is affecting my service. I appreciate your help.",technical,high
+TKT-00975,Could you please help? Where can I find documentation for the new feature? This is blocking my work right now. Thank you.,product,high
+TKT-00412,I need assistance: The mobile app freezes when I upload a file. Please investigate this when possible today. I appreciate your help.,technical,medium
+TKT-00856,"Hello support, My account was locked after several login attempts. Thank you.",account,low
+TKT-00821,Please help: I need help changing my account details.,account,low
+TKT-00045,I cannot download my receipt from the billing page. I need help immediately because I cannot continue. Thank you.,billing,high
+TKT-00050,Please help: I need a refund for an order I placed yesterday. Please treat this as a high-priority request. Thank you.,billing,high
+TKT-00850,Could you please help? My account was locked after several login attempts. I can wait for a normal response.,account,low
+TKT-00241,"Hi team, I cannot download my receipt from the billing page. Please advise.",billing,low
+TKT-00171,Could you please help? I cannot download my receipt from the billing page. I appreciate your help.,billing,medium
+TKT-00524,"Hi team, The page keeps timing out before it finishes loading. Please help when convenient. Please advise.",technical,low
+TKT-00766,My password reset link is not working. I appreciate your help.,account,medium
+TKT-00839,Could you please help? I want to update my profile information. I would like some information about this.,account,low
+TKT-00424,I need assistance: The search function returns an error every time. I need assistance with this problem.,technical,medium
+TKT-00381,Could you please help? The server appears to be down and I cannot use the service. I appreciate your help.,technical,high
+TKT-00610,"Support team, I cannot access my profile. This is blocking my work right now. Thanks.",account,high
+TKT-00677,Could you please help? Someone changed the email on my account and I cannot log in. Please treat this as a high-priority request. I appreciate your help.,account,high
+TKT-00345,The page keeps timing out before it finishes loading. This is blocking my work right now. Thank you.,technical,high
+TKT-00110,I need assistance: The refund has not appeared in my account yet. I need assistance with this problem. Thank you.,billing,medium
+TKT-00278,"Support team, The refund has not appeared in my account yet. I can wait for a normal response. Please advise.",billing,low
+TKT-00678,I need assistance: I forgot my password and cannot sign in. I need help immediately because I cannot continue. Thank you.,account,high
+TKT-00571,"Hi team, I am getting an unexpected error while saving changes.",technical,low
+TKT-00359,I need assistance: The website is loading extremely slowly. This is a critical issue and is affecting my service.,technical,high
+TKT-00599,Please help: The page keeps timing out before it finishes loading. Please help when convenient. Thank you.,technical,low
+TKT-00391,"Support team, The page keeps timing out before it finishes loading.",technical,high
+TKT-00894,"Support team, My account was locked after several login attempts. Please provide guidance when possible. I appreciate your help.",account,low
+TKT-00693,Please help: My verification code is not arriving. This is blocking my work right now.,account,high
+TKT-00728,Could you please help? How do I update my phone number? Please help me resolve this soon. Thanks.,account,medium
+TKT-00363,Could you please help? The website is loading extremely slowly. Please resolve this as soon as possible.,technical,high
+TKT-00597,"Hi team, I cannot connect to the service from my computer. Please help when convenient. Thank you.",technical,low
+TKT-00428,Could you please help? The website is loading extremely slowly. I need assistance with this problem. Thanks.,technical,medium
+TKT-00071,"Hello support, Can you help me update my billing details? I appreciate your help.",billing,high
+TKT-00322,I get a 500 error when trying to log in. This is urgent and needs immediate attention. Thanks.,technical,high
+TKT-00653,"Hi team, How can I enable two-factor authentication? This is urgent and needs immediate attention. Thank you.",account,high
+TKT-01066,"Support team, Is this product feature available for all users? I appreciate your help.",product,medium
+TKT-00108,"Hello support, My payment of $100 went through but the subscription is still inactive. Please investigate this when possible today. Please advise.",billing,medium
+TKT-01109,"Support team, Can you explain what is included in the premium plan? I would like some information about this.",product,low
+TKT-00356,"Hello support, I get a 500 error when trying to log in. Thanks.",technical,high
+TKT-00951,I need assistance: How does the new reporting feature work? I appreciate your help.,product,high
+TKT-00343,Please help: The page keeps timing out before it finishes loading. This is blocking my work right now.,technical,high
+TKT-00355,Could you please help? The website is loading extremely slowly. I need help immediately because I cannot continue. Please advise.,technical,high
+TKT-00024,Please help: I need a refund for an order I placed yesterday. I need help immediately because I cannot continue. Thanks.,billing,high
+TKT-00044,I need assistance: The payment page keeps rejecting my card. I need help immediately because I cannot continue. Please advise.,billing,high
+TKT-00244,"Hi team, I need a refund for an order I placed yesterday. There is no immediate rush. Thanks.",billing,low
+TKT-00738,Could you please help? My account login is being rejected. This is affecting my work but I can wait for a response. Thanks.,account,medium
+TKT-01136,I need assistance: How does the new reporting feature work? Thanks.,product,low
+TKT-00368,"Hi team, The server appears to be down and I cannot use the service. This is urgent and needs immediate attention. I appreciate your help.",technical,high
+TKT-00164,Could you please help? My payment of $199 went through but the subscription is still inactive. I would appreciate a timely solution. I appreciate your help.,billing,medium
+TKT-01116,Could you please help? I want to compare the available subscription plans. Thanks.,product,low
+TKT-00333,I need assistance: The application crashes when I open the dashboard. This is blocking my work right now. Please advise.,technical,high
+TKT-00989,"Hello support, Where can I find documentation for the new feature? Please resolve this as soon as possible. Thanks.",product,high
+TKT-01173,"Support team, The new feature is not available on my plan. This is a general question. Thanks.",product,low
+TKT-01002,Could you please help? The new feature is not available on my plan. Please help me resolve this soon.,product,medium
+TKT-00378,Please help: The search function returns an error every time. This is blocking my work right now. Thanks.,technical,high
+TKT-00310,"Hi team, I am getting an unexpected error while saving changes. This is a critical issue and is affecting my service. Thanks.",technical,high
+TKT-00156,Could you please help? I was charged $50 twice for my order.,billing,medium
+TKT-00211,Could you please help? My payment of $25 went through but the subscription is still inactive. Please advise.,billing,low
+TKT-00087,Could you please help? My payment of $199 went through but the subscription is still inactive. I need help immediately because I cannot continue. Please advise.,billing,high
+TKT-00169,"Hello support, The payment page keeps rejecting my card. The issue is important but not an emergency. I appreciate your help.",billing,medium
+TKT-00995,I need assistance: Please explain how the new dashboard feature works. This is urgent and needs immediate attention.,product,high
+TKT-00052,Could you please help? I cannot download my receipt from the billing page. I need help immediately because I cannot continue. Thanks.,billing,high
+TKT-00439,I need assistance: The server appears to be down and I cannot use the service. Please investigate this when possible today. Thanks.,technical,medium
+TKT-00550,Please help: The website is loading extremely slowly. Please provide guidance when possible. Thanks.,technical,low
+TKT-00491,The server appears to be down and I cannot use the service. Thanks.,technical,medium
+TKT-00426,Could you please help? The search function returns an error every time. Thank you.,technical,medium
+TKT-00136,"Hi team, I cannot download my receipt from the billing page. Thank you.",billing,medium
+TKT-01192,I need assistance: The feature I need is missing from my current package. Please help when convenient. Please advise.,product,low
+TKT-00055,My invoice has the wrong tax amount. Please treat this as a high-priority request.,billing,high
+TKT-00079,"Hi team, My payment of $50 went through but the subscription is still inactive. This is blocking my work right now. Thank you.",billing,high
+TKT-00431,The page keeps timing out before it finishes loading. Thank you.,technical,medium
+TKT-00185,The card payment failed even though my bank shows the amount as deducted. This is affecting my work but I can wait for a response. Thank you.,billing,medium
+TKT-00057,"Support team, I need a refund for an order I placed yesterday. Please resolve this as soon as possible. Thanks.",billing,high
+TKT-00943,I would like information about the latest product update. Please treat this as a high-priority request. Please advise.,product,high
+TKT-00851,Please help: I need help changing my account details. I appreciate your help.,account,low
+TKT-01164,"Hi team, Which subscription includes analytics? Please help when convenient. I appreciate your help.",product,low
+TKT-00219,"Hello support, My invoice has the wrong tax amount. I would like some information about this. I appreciate your help.",billing,low
+TKT-00845,Please help: Please change the email address on my account. I would like some information about this. Thank you.,account,low
+TKT-00114,"Hi team, My monthly bill contains an unexpected charge. I need assistance with this problem. I appreciate your help.",billing,medium
+TKT-00549,Could you please help? The server appears to be down and I cannot use the service. Please provide guidance when possible. Thank you.,technical,low
+TKT-01019,The feature I need is missing from my current package. This is affecting my work but I can wait for a response. Thank you.,product,medium
+TKT-01073,Could you please help? Which subscription includes analytics? I need assistance with this problem. Please advise.,product,medium
+TKT-00175,"Hello support, I was charged $100 twice for my order. I would appreciate a timely solution. Thanks.",billing,medium
+TKT-01023,Could you please help? Can I upgrade my plan to get advanced reports? Please help me resolve this soon. Thank you.,product,medium
+TKT-00616,Please help: I need help changing my account details. I appreciate your help.,account,high
+TKT-00514,I need assistance: I cannot connect to the service from my computer. I can wait for a normal response. I appreciate your help.,technical,low
+TKT-00462,The website is loading extremely slowly. Please help me resolve this soon. Please advise.,technical,medium
+TKT-00287,"Hello support, The refund has not appeared in my account yet. I can wait for a normal response.",billing,low
+TKT-00382,"Support team, The website is loading extremely slowly. This is urgent and needs immediate attention. Thank you.",technical,high
+TKT-01008,"Hello support, I want to compare the available subscription plans. The issue is important but not an emergency.",product,medium
+TKT-00671,"Hello support, I need help changing my account details. Please advise.",account,high
+TKT-00535,"Hi team, The application crashes when I open the dashboard. This is a general question. Thanks.",technical,low
+TKT-00910,"Hi team, I want to compare the available subscription plans. I need help immediately because I cannot continue.",product,high
+TKT-00293,Could you please help? Can you help me update my billing details? There is no immediate rush. Thanks.,billing,low
+TKT-00124,I need a refund for an order I placed yesterday. Please help me resolve this soon. Thank you.,billing,medium
+TKT-00583,The mobile app freezes when I upload a file. There is no immediate rush. Thanks.,technical,low
+TKT-00141,Could you please help? I need a refund for an order I placed yesterday. I appreciate your help.,billing,medium
+TKT-00736,"Hi team, I want to update my profile information. Please advise.",account,medium
+TKT-00082,"Hello support, The card payment failed even though my bank shows the amount as deducted. This is urgent and needs immediate attention. Please advise.",billing,high
+TKT-00882,"Hi team, How can I enable two-factor authentication? I would like some information about this.",account,low
+TKT-00740,"Hi team, My account was locked after several login attempts. I need assistance with this problem. Thank you.",account,medium
+TKT-01102,Can I upgrade my plan to get advanced reports? There is no immediate rush. Thank you.,product,low
+TKT-00909,"Support team, The feature I need is missing from my current package. I need help immediately because I cannot continue. Thanks.",product,high
+TKT-01167,"Hello support, Where can I find documentation for the new feature? I can wait for a normal response. Thanks.",product,low
+TKT-00937,Please help: Can you explain what is included in the premium plan? This is urgent and needs immediate attention.,product,high
+TKT-00372,Notifications are not appearing in the app. Please treat this as a high-priority request. Thanks.,technical,high
+TKT-00890,How can I enable two-factor authentication? I can wait for a normal response. Please advise.,account,low
+TKT-00157,"Hello support, Why was I charged a renewal fee? This is affecting my work but I can wait for a response. Thanks.",billing,medium
+TKT-00992,I need assistance: Which subscription includes analytics? This is blocking my work right now.,product,high
+TKT-00622,Please help: My account login is being rejected. This is urgent and needs immediate attention. Thank you.,account,high
+TKT-01038,Please help: Where can I find documentation for the new feature? Please help me resolve this soon.,product,medium
+TKT-00245,I need assistance: The payment page keeps rejecting my card. This is a general question. Thank you.,billing,low
+TKT-00159,"Hello support, The payment page keeps rejecting my card. I would appreciate a timely solution. I appreciate your help.",billing,medium
+TKT-00746,Please help: How can I enable two-factor authentication? Please advise.,account,medium
+TKT-00193,"Hi team, My payment of $25 went through but the subscription is still inactive. Please investigate this when possible today. Thanks.",billing,medium
+TKT-00534,I need assistance: The software shows a blank screen after login. Please help when convenient. Thank you.,technical,low
+TKT-00904,"Hi team, Which subscription includes analytics? This is urgent and needs immediate attention. Thanks.",product,high
+TKT-01004,I need assistance: Does the basic plan include this functionality? I would appreciate a timely solution. Thanks.,product,medium
+TKT-01070,"Support team, I would like information about the latest product update. Please help me resolve this soon.",product,medium
+TKT-00414,The mobile app freezes when I upload a file. Please help me resolve this soon. Thank you.,technical,medium
+TKT-01187,Could you please help? The feature I need is missing from my current package. I can wait for a normal response. I appreciate your help.,product,low
+TKT-00328,I need assistance: The page keeps timing out before it finishes loading. Please resolve this as soon as possible. Thanks.,technical,high
+TKT-00129,"Hello support, I cannot download my receipt from the billing page. Please investigate this when possible today.",billing,medium
+TKT-00695,"Support team, How do I update my phone number? Please resolve this as soon as possible. Thanks.",account,high
+TKT-00631,"Support team, My account was locked after several login attempts. Please advise.",account,high
+TKT-00275,"Support team, The card payment failed even though my bank shows the amount as deducted. There is no immediate rush. Please advise.",billing,low
+TKT-01148,"Hello support, Does the basic plan include this functionality? Please provide guidance when possible. I appreciate your help.",product,low
+TKT-00309,"Support team, I cannot connect to the service from my computer. Please resolve this as soon as possible.",technical,high
+TKT-00234,I need assistance: My invoice has the wrong tax amount. This is a general question. Please advise.,billing,low
+TKT-01048,I need assistance: Does the basic plan include this functionality? I would appreciate a timely solution.,product,medium
+TKT-00623,I need assistance: My account login is being rejected. This is urgent and needs immediate attention. Thank you.,account,high
+TKT-00644,"Support team, I want to update my profile information. Please treat this as a high-priority request. Please advise.",account,high
+TKT-00479,I need assistance: The software shows a blank screen after login. I would appreciate a timely solution. Please advise.,technical,medium
+TKT-00472,"Hi team, The server appears to be down and I cannot use the service. I need assistance with this problem. I appreciate your help.",technical,medium
+TKT-00926,I need assistance: Can you explain what is included in the premium plan? Thank you.,product,high
+TKT-01098,"Hi team, How does the new reporting feature work? I need assistance with this problem. Thanks.",product,medium
+TKT-00627,Someone changed the email on my account and I cannot log in. I need help immediately because I cannot continue.,account,high
+TKT-00395,"Hello support, The search function returns an error every time. Please treat this as a high-priority request. Thanks.",technical,high
+TKT-00637,I need assistance: My password reset link is not working. I need help immediately because I cannot continue. Please advise.,account,high
+TKT-00768,Please help: My account login is being rejected. This is affecting my work but I can wait for a response. I appreciate your help.,account,medium
+TKT-00533,"Hello support, I am getting an unexpected error while saving changes. Please help when convenient.",technical,low
+TKT-00718,"Hello support, My verification code is not arriving. This is affecting my work but I can wait for a response. Please advise.",account,medium
+TKT-00667,I need assistance: How do I update my phone number? Please resolve this as soon as possible. Thanks.,account,high
+TKT-00598,Please help: I cannot connect to the service from my computer. I can wait for a normal response. Thanks.,technical,low
+TKT-00482,Please help: I cannot connect to the service from my computer. The issue is important but not an emergency. Thank you.,technical,medium
+TKT-01103,I need assistance: Does the basic plan include this functionality? There is no immediate rush.,product,low
+TKT-00315,Please help: The page keeps timing out before it finishes loading. This is blocking my work right now. I appreciate your help.,technical,high
+TKT-00729,Someone changed the email on my account and I cannot log in. The issue is important but not an emergency. Thank you.,account,medium
+TKT-00210,"Hi team, I need a refund for an order I placed yesterday. Please help when convenient. Thank you.",billing,low
+TKT-00934,Can you explain what is included in the premium plan? Please resolve this as soon as possible. Please advise.,product,high
+TKT-00434,"Hi team, I am getting an unexpected error while saving changes. The issue is important but not an emergency. Thank you.",technical,medium
+TKT-00329,Could you please help? The mobile app freezes when I upload a file. This is blocking my work right now. I appreciate your help.,technical,high
+TKT-00261,"Hello support, I cannot download my receipt from the billing page. Thanks.",billing,low
+TKT-01117,The feature I need is missing from my current package. Please provide guidance when possible. Thanks.,product,low
+TKT-00307,The page keeps timing out before it finishes loading. Please treat this as a high-priority request. Thanks.,technical,high
+TKT-01067,I need assistance: Is this product feature available for all users? I would appreciate a timely solution.,product,medium
+TKT-00928,"Hi team, Can you explain what is included in the premium plan? This is blocking my work right now. Please advise.",product,high
+TKT-01025,I need assistance: Can you explain what is included in the premium plan? I would appreciate a timely solution. Please advise.,product,medium
+TKT-00271,Could you please help? The card payment failed even though my bank shows the amount as deducted. Please advise.,billing,low
+TKT-00291,"Hi team, Please explain the invoice for my recent purchase. I appreciate your help.",billing,low
+TKT-00813,Please help: My verification code is not arriving. I can wait for a normal response. Thank you.,account,low
+TKT-00097,Please explain the invoice for my recent purchase. I need help immediately because I cannot continue. Thank you.,billing,high
+TKT-00888,"Hi team, I cannot access my profile. I would like some information about this.",account,low
+TKT-00819,I need assistance: My verification code is not arriving. Please help when convenient. Please advise.,account,low
+TKT-00032,I need assistance: My invoice has the wrong tax amount. This is urgent and needs immediate attention. I appreciate your help.,billing,high
+TKT-00763,I need assistance: My account was locked after several login attempts. Please help me resolve this soon.,account,medium
+TKT-00954,I need assistance: I want to compare the available subscription plans. This is blocking my work right now.,product,high
+TKT-00320,Please help: I am getting an unexpected error while saving changes. This is blocking my work right now. Please advise.,technical,high
+TKT-00299,"Hello support, I was charged $25 twice for my order. I would like some information about this. Thank you.",billing,low
+TKT-00200,"Hi team, Can you help me update my billing details? The issue is important but not an emergency. I appreciate your help.",billing,medium
+TKT-00561,Please help: The application stopped working after the latest update. I appreciate your help.,technical,low
+TKT-00179,I need assistance: I cannot download my receipt from the billing page. This is affecting my work but I can wait for a response. Thanks.,billing,medium
+TKT-01132,"Hi team, Can I upgrade my plan to get advanced reports? This is a general question. I appreciate your help.",product,low
+TKT-00089,I need assistance: My invoice has the wrong tax amount. Please resolve this as soon as possible. Thanks.,billing,high
+TKT-00788,I need assistance: I want to update my profile information. I need assistance with this problem.,account,medium
+TKT-00725,Could you please help? Someone changed the email on my account and I cannot log in. This is affecting my work but I can wait for a response. Thanks.,account,medium
+TKT-00827,My account was locked after several login attempts. I can wait for a normal response. Thank you.,account,low
+TKT-00209,My invoice has the wrong tax amount. This is a general question. I appreciate your help.,billing,low
+TKT-01040,Could you please help? Does the basic plan include this functionality? Please help me resolve this soon. I appreciate your help.,product,medium
+TKT-00297,"Hello support, I was charged $100 twice for my order. I would like some information about this.",billing,low
+TKT-00998,Is this product feature available for all users? Please treat this as a high-priority request. Please advise.,product,high
+TKT-00498,"Support team, The page keeps timing out before it finishes loading. I would appreciate a timely solution. Please advise.",technical,medium
+TKT-00835,"Support team, I forgot my password and cannot sign in. This is a general question. I appreciate your help.",account,low
+TKT-00430,"Support team, The application crashes when I open the dashboard. I would appreciate a timely solution. Thanks.",technical,medium
+TKT-00507,Could you please help? The application stopped working after the latest update. Please provide guidance when possible. Please advise.,technical,low
+TKT-00831,"Hi team, My password reset link is not working. I appreciate your help.",account,low
+TKT-00694,"Hi team, My password reset link is not working. Please resolve this as soon as possible. Please advise.",account,high
+TKT-00011,Could you please help? My monthly bill contains an unexpected charge.,billing,high
+TKT-00848,"Hi team, My verification code is not arriving. There is no immediate rush. Thanks.",account,low
+TKT-00463,Please help: The application stopped working after the latest update. I need assistance with this problem. I appreciate your help.,technical,medium
+TKT-00199,"Hello support, Why was I charged a renewal fee? Please investigate this when possible today. I appreciate your help.",billing,medium
+TKT-00060,"Support team, My payment of $25 went through but the subscription is still inactive. Please treat this as a high-priority request.",billing,high
+TKT-00907,Could you please help? The new feature is not available on my plan. This is blocking my work right now. I appreciate your help.,product,high
+TKT-00997,"Hello support, I would like information about the latest product update. Please treat this as a high-priority request. Thank you.",product,high
+TKT-00276,"Hi team, The payment page keeps rejecting my card. Please advise.",billing,low
+TKT-00809,Someone changed the email on my account and I cannot log in. This is a general question. Thanks.,account,low
+TKT-00908,"Support team, The feature I need is missing from my current package. Please resolve this as soon as possible.",product,high
+TKT-00658,"Support team, My verification code is not arriving. This is a critical issue and is affecting my service. Thanks.",account,high
+TKT-00957,Could you please help? How does the new reporting feature work? This is a critical issue and is affecting my service. Thank you.,product,high
+TKT-00886,Could you please help? My verification code is not arriving. Thank you.,account,low
+TKT-00221,"Hi team, My monthly bill contains an unexpected charge.",billing,low
+TKT-00789,I need assistance: I cannot access my profile. The issue is important but not an emergency. Thank you.,account,medium
+TKT-00712,I need assistance: I want to update my profile information. Please help me resolve this soon. Thank you.,account,medium
+TKT-00714,"Hello support, Please change the email address on my account. I need assistance with this problem. I appreciate your help.",account,medium
+TKT-01113,"Support team, Can you explain what is included in the premium plan? Please provide guidance when possible.",product,low
+TKT-01191,"Support team, I want to compare the available subscription plans.",product,low
+TKT-00790,Please help: I forgot my password and cannot sign in. Please help me resolve this soon.,account,medium
+TKT-00416,"Support team, I get a 500 error when trying to log in.",technical,medium
+TKT-00899,My verification code is not arriving. There is no immediate rush. Thank you.,account,low
+TKT-00935,"Hello support, Is this product feature available for all users? I need help immediately because I cannot continue. I appreciate your help.",product,high
+TKT-00266,Could you please help? The card payment failed even though my bank shows the amount as deducted. Thanks.,billing,low
+TKT-00632,How do I update my phone number? I need help immediately because I cannot continue. Please advise.,account,high
+TKT-00248,"Hello support, I cannot download my receipt from the billing page. Please provide guidance when possible. Thanks.",billing,low
+TKT-00683,"Support team, I want to update my profile information. This is a critical issue and is affecting my service. Thanks.",account,high
+TKT-00559,"Hello support, Notifications are not appearing in the app. Please help when convenient. Thanks.",technical,low
+TKT-01137,I need assistance: I would like information about the latest product update. Please help when convenient. Please advise.,product,low
+TKT-00968,I need assistance: How does the new reporting feature work? Please resolve this as soon as possible. Please advise.,product,high
+TKT-01005,"Support team, I would like information about the latest product update. Please help me resolve this soon. Thanks.",product,medium
+TKT-00985,"Support team, The new feature is not available on my plan. This is a critical issue and is affecting my service. Please advise.",product,high
+TKT-00295,"Hello support, I need a refund for an order I placed yesterday. This is a general question. Please advise.",billing,low
+TKT-00520,"Hi team, The page keeps timing out before it finishes loading. I can wait for a normal response. Thanks.",technical,low
+TKT-00771,Could you please help? How do I update my phone number? Thank you.,account,medium
+TKT-00084,"Hello support, The card payment failed even though my bank shows the amount as deducted. This is a critical issue and is affecting my service. Please advise.",billing,high
+TKT-00232,"Support team, The card payment failed even though my bank shows the amount as deducted. There is no immediate rush. Thanks.",billing,low
+TKT-00621,My account login is being rejected.,account,high
+TKT-00334,"Hello support, The search function returns an error every time. This is urgent and needs immediate attention. Thank you.",technical,high
+TKT-00130,I need assistance: I cannot download my receipt from the billing page. The issue is important but not an emergency. I appreciate your help.,billing,medium
+TKT-01012,Could you please help? Can you explain what is included in the premium plan? I would appreciate a timely solution. Please advise.,product,medium
+TKT-00645,Could you please help? I need help changing my account details. Please resolve this as soon as possible.,account,high
+TKT-00974,Please help: Which subscription includes analytics? This is blocking my work right now. I appreciate your help.,product,high
+TKT-00383,I need assistance: The search function returns an error every time. Please treat this as a high-priority request. Thanks.,technical,high
+TKT-00868,My password reset link is not working. I would like some information about this. Please advise.,account,low
+TKT-00543,"Support team, The application crashes when I open the dashboard. I would like some information about this. I appreciate your help.",technical,low
+TKT-01194,"Hi team, Please explain how the new dashboard feature works. I would like some information about this. I appreciate your help.",product,low
+TKT-00875,Please change the email address on my account. Please provide guidance when possible. I appreciate your help.,account,low
+TKT-00332,Could you please help? The application crashes when I open the dashboard. Please treat this as a high-priority request. Please advise.,technical,high
+TKT-00410,Please help: I am getting an unexpected error while saving changes. I need assistance with this problem. Thanks.,technical,medium
+TKT-00077,Why was I charged a renewal fee? This is urgent and needs immediate attention. I appreciate your help.,billing,high
+TKT-00869,"Support team, How can I enable two-factor authentication? This is a general question.",account,low
+TKT-00139,Please help: The payment page keeps rejecting my card. Please help me resolve this soon. Thanks.,billing,medium
+TKT-00544,Please help: I get a 500 error when trying to log in. I would like some information about this. I appreciate your help.,technical,low
+TKT-00674,Please help: How can I enable two-factor authentication? Please treat this as a high-priority request. I appreciate your help.,account,high
+TKT-00921,I want to compare the available subscription plans. I appreciate your help.,product,high
+TKT-00064,I need assistance: The card payment failed even though my bank shows the amount as deducted. Please treat this as a high-priority request. I appreciate your help.,billing,high
+TKT-00142,Please help: The payment page keeps rejecting my card. Please investigate this when possible today. Thanks.,billing,medium
+TKT-00717,"Support team, How can I enable two-factor authentication? This is affecting my work but I can wait for a response. Thank you.",account,medium
+TKT-00377,"Support team, I cannot connect to the service from my computer. This is a critical issue and is affecting my service. Thank you.",technical,high
+TKT-00364,Please help: The website is loading extremely slowly. I need help immediately because I cannot continue. I appreciate your help.,technical,high
+TKT-00140,Please help: My monthly bill contains an unexpected charge. The issue is important but not an emergency.,billing,medium
+TKT-00885,Please help: I need help changing my account details. I can wait for a normal response.,account,low
+TKT-01042,Please help: How does the new reporting feature work? I need assistance with this problem. Please advise.,product,medium
+TKT-00225,Could you please help? My monthly bill contains an unexpected charge. This is a general question. I appreciate your help.,billing,low
+TKT-00515,"Hello support, The application stopped working after the latest update. Please provide guidance when possible.",technical,low
+TKT-00267,"Support team, My payment of $50 went through but the subscription is still inactive. This is a general question. Please advise.",billing,low
+TKT-01170,Can you explain what is included in the premium plan? Please help when convenient. Thank you.,product,low
+TKT-00487,"Hi team, The website is loading extremely slowly. Please help me resolve this soon. Thanks.",technical,medium
+TKT-00353,Please help: Notifications are not appearing in the app. This is a critical issue and is affecting my service. Thanks.,technical,high
+TKT-01006,"Hi team, How does the new reporting feature work? Thank you.",product,medium
+TKT-00618,Please help: How can I enable two-factor authentication? Please treat this as a high-priority request. Thanks.,account,high
+TKT-00668,Please help: I want to update my profile information. Please resolve this as soon as possible.,account,high
+TKT-00775,"Support team, My account was locked after several login attempts. Please investigate this when possible today. Thank you.",account,medium
+TKT-00554,"Support team, The server appears to be down and I cannot use the service. I would like some information about this. I appreciate your help.",technical,low
+TKT-00576,Could you please help? The search function returns an error every time. Thanks.,technical,low
+TKT-00915,Could you please help? Please explain how the new dashboard feature works. Please resolve this as soon as possible. Thank you.,product,high
+TKT-00466,"Hello support, The software shows a blank screen after login. I appreciate your help.",technical,medium
+TKT-00591,Please help: The software shows a blank screen after login. Please advise.,technical,low
+TKT-00765,I need assistance: I need help changing my account details. I need assistance with this problem. Thank you.,account,medium
+TKT-00635,Please help: My password reset link is not working. I need help immediately because I cannot continue. I appreciate your help.,account,high
+TKT-00838,"Hi team, Please change the email address on my account. This is a general question.",account,low
+TKT-00290,"Hello support, I cannot download my receipt from the billing page. There is no immediate rush. I appreciate your help.",billing,low
+TKT-00040,I need a refund for an order I placed yesterday. This is urgent and needs immediate attention. Thanks.,billing,high
+TKT-00031,"Support team, I cannot download my receipt from the billing page.",billing,high
+TKT-00243,"Support team, I need a refund for an order I placed yesterday. Please help when convenient. Thanks.",billing,low
+TKT-00429,The application crashes when I open the dashboard. This is affecting my work but I can wait for a response. Thank you.,technical,medium
+TKT-00137,"Support team, The card payment failed even though my bank shows the amount as deducted. I would appreciate a timely solution.",billing,medium
+TKT-01101,"Hi team, Where can I find documentation for the new feature? Thank you.",product,low
+TKT-00865,Could you please help? How do I update my phone number? Please help when convenient. Thank you.,account,low
+TKT-00004,Can you help me update my billing details? This is urgent and needs immediate attention. Thank you.,billing,high
+TKT-00833,Please help: How can I enable two-factor authentication? I would like some information about this. I appreciate your help.,account,low
+TKT-00603,"Hello support, I want to update my profile information. This is urgent and needs immediate attention. I appreciate your help.",account,high
+TKT-01034,"Hi team, Can I upgrade my plan to get advanced reports? I would appreciate a timely solution.",product,medium
+TKT-00655,How do I update my phone number? This is urgent and needs immediate attention.,account,high
+TKT-00844,"Hi team, My account login is being rejected. Please help when convenient. Thank you.",account,low
+TKT-00784,Please help: I need help changing my account details. I need assistance with this problem.,account,medium
+TKT-01074,"Hi team, How does the new reporting feature work? Please help me resolve this soon. Thanks.",product,medium
+TKT-00443,I need assistance: The search function returns an error every time. I need assistance with this problem. Thank you.,technical,medium
+TKT-01178,Please help: I want to compare the available subscription plans. Please help when convenient. Thanks.,product,low
+TKT-00436,Please help: The server appears to be down and I cannot use the service.,technical,medium
+TKT-01169,I need assistance: I want to compare the available subscription plans. Please help when convenient. I appreciate your help.,product,low
+TKT-00101,"Hello support, My monthly bill contains an unexpected charge.",billing,medium
+TKT-00773,I need assistance: Someone changed the email on my account and I cannot log in. Please investigate this when possible today. I appreciate your help.,account,medium
+TKT-00495,Please help: The page keeps timing out before it finishes loading. Please help me resolve this soon. Thank you.,technical,medium
+TKT-01028,I need assistance: Does the basic plan include this functionality? I need assistance with this problem. I appreciate your help.,product,medium
+TKT-00807,"Hi team, I cannot access my profile. I can wait for a normal response.",account,low
+TKT-01142,Can you explain what is included in the premium plan? Please provide guidance when possible. I appreciate your help.,product,low
+TKT-00846,"Support team, I forgot my password and cannot sign in. Thank you.",account,low
+TKT-00987,"Support team, Where can I find documentation for the new feature? This is a critical issue and is affecting my service. I appreciate your help.",product,high
+TKT-00228,Could you please help? I cannot download my receipt from the billing page. This is a general question.,billing,low
+TKT-01193,"Hello support, The feature I need is missing from my current package. There is no immediate rush. Thanks.",product,low
+TKT-00672,"Hello support, How do I update my phone number? Please treat this as a high-priority request. Thanks.",account,high
+TKT-00859,"Hi team, Please change the email address on my account. I can wait for a normal response. Please advise.",account,low
+TKT-00925,"Support team, The feature I need is missing from my current package. This is a critical issue and is affecting my service. Thanks.",product,high
+TKT-00067,I was charged $199 twice for my order. This is blocking my work right now.,billing,high
+TKT-00068,Could you please help? Why was I charged a renewal fee? This is a critical issue and is affecting my service. I appreciate your help.,billing,high
+TKT-00817,I need assistance: My account login is being rejected. Please provide guidance when possible. Please advise.,account,low
+TKT-00212,"Hi team, Why was I charged a renewal fee? I can wait for a normal response. Thanks.",billing,low
+TKT-00013,Could you please help? My payment of $149 went through but the subscription is still inactive. This is blocking my work right now. I appreciate your help.,billing,high
+TKT-00494,Please help: Notifications are not appearing in the app. I need assistance with this problem. Please advise.,technical,medium
+TKT-01165,"Hello support, Is this product feature available for all users? Please provide guidance when possible. Thanks.",product,low
+TKT-00300,Could you please help? Why was I charged a renewal fee? There is no immediate rush. I appreciate your help.,billing,low
+TKT-00411,Notifications are not appearing in the app. Please advise.,technical,medium
+TKT-00757,I need assistance: I need help changing my account details. I would appreciate a timely solution. Thank you.,account,medium
+TKT-01075,I need assistance: The new feature is not available on my plan. I need assistance with this problem. I appreciate your help.,product,medium
+TKT-00696,Please help: How do I update my phone number? Thanks.,account,high
+TKT-01151,"Hi team, Is this product feature available for all users?",product,low
+TKT-00724,"Hi team, My account was locked after several login attempts. Please help me resolve this soon. Thank you.",account,medium
+TKT-01016,Could you please help? Is this product feature available for all users? Please advise.,product,medium
+TKT-00528,Could you please help? The application stopped working after the latest update. I would like some information about this. Thank you.,technical,low
+TKT-00600,I need assistance: The server appears to be down and I cannot use the service. I would like some information about this.,technical,low
+TKT-01120,"Hi team, Please explain how the new dashboard feature works. Please provide guidance when possible.",product,low
+TKT-00567,"Support team, The software shows a blank screen after login. Please provide guidance when possible. Thanks.",technical,low
+TKT-00731,Could you please help? My password reset link is not working. Thank you.,account,medium
+TKT-00274,I need assistance: My invoice has the wrong tax amount. Please provide guidance when possible.,billing,low
+TKT-00967,I need assistance: Which subscription includes analytics? This is blocking my work right now.,product,high
+TKT-00238,"Hi team, My payment of $75 went through but the subscription is still inactive. This is a general question. I appreciate your help.",billing,low
+TKT-00406,"Support team, The application stopped working after the latest update. Please advise.",technical,medium
+TKT-00003,My invoice has the wrong tax amount. This is a critical issue and is affecting my service. I appreciate your help.,billing,high
+TKT-00007,"Support team, Can you help me update my billing details? I need help immediately because I cannot continue. Please advise.",billing,high
+TKT-00312,Please help: The application stopped working after the latest update. This is urgent and needs immediate attention. Thanks.,technical,high
+TKT-01091,"Support team, Does the basic plan include this functionality?",product,medium
+TKT-00452,Please help: The server appears to be down and I cannot use the service. I need assistance with this problem. Thank you.,technical,medium
+TKT-00722,I need assistance: My account login is being rejected. The issue is important but not an emergency. Thanks.,account,medium
+TKT-00216,Why was I charged a renewal fee? Thank you.,billing,low
+TKT-01086,"Hello support, Does the basic plan include this functionality? I appreciate your help.",product,medium
+TKT-00028,Could you please help? The refund has not appeared in my account yet. This is urgent and needs immediate attention.,billing,high
+TKT-01158,Please help: Which subscription includes analytics? Please provide guidance when possible. Please advise.,product,low
+TKT-00362,"Hi team, The mobile app freezes when I upload a file. Please resolve this as soon as possible. Thank you.",technical,high
+TKT-00823,My password reset link is not working. I can wait for a normal response. Thanks.,account,low
+TKT-00781,"Support team, My verification code is not arriving.",account,medium
+TKT-00629,I need assistance: I forgot my password and cannot sign in. Please treat this as a high-priority request. Thanks.,account,high
+TKT-00454,Please help: I get a 500 error when trying to log in. Please help me resolve this soon. Thank you.,technical,medium
+TKT-00739,"Hello support, I forgot my password and cannot sign in. I need assistance with this problem. Thank you.",account,medium
+TKT-00536,I get a 500 error when trying to log in. I appreciate your help.,technical,low
+TKT-01050,"Hello support, The new feature is not available on my plan. Please investigate this when possible today. Thank you.",product,medium
+TKT-00399,"Support team, I cannot connect to the service from my computer. I need help immediately because I cannot continue. I appreciate your help.",technical,high
+TKT-00257,"Hi team, I was charged $75 twice for my order. I would like some information about this. Thanks.",billing,low
+TKT-00292,I need assistance: Can you help me update my billing details? Please provide guidance when possible. Thank you.,billing,low
+TKT-00026,"Support team, The refund has not appeared in my account yet. Thanks.",billing,high
+TKT-00337,Please help: The mobile app freezes when I upload a file. I need help immediately because I cannot continue. Please advise.,technical,high
+TKT-00585,Please help: I get a 500 error when trying to log in. There is no immediate rush. I appreciate your help.,technical,low
+TKT-00048,My payment of $199 went through but the subscription is still inactive. Please treat this as a high-priority request. Thank you.,billing,high
+TKT-00319,Please help: The application stopped working after the latest update. I need help immediately because I cannot continue. Thanks.,technical,high
+TKT-00107,"Support team, The payment page keeps rejecting my card. The issue is important but not an emergency. I appreciate your help.",billing,medium
+TKT-00799,"Hi team, My verification code is not arriving. Please investigate this when possible today.",account,medium
+TKT-00056,Could you please help? Can you help me update my billing details?,billing,high
+TKT-00523,"Hello support, Notifications are not appearing in the app. Please help when convenient. Please advise.",technical,low
+TKT-00214,Please help: The card payment failed even though my bank shows the amount as deducted. I can wait for a normal response. Thanks.,billing,low
+TKT-00121,The payment page keeps rejecting my card. Please advise.,billing,medium
+TKT-00918,Please help: Can I upgrade my plan to get advanced reports? This is a critical issue and is affecting my service.,product,high
+TKT-01068,"Support team, Can I upgrade my plan to get advanced reports? The issue is important but not an emergency. I appreciate your help.",product,medium
+TKT-01118,"Hello support, Which subscription includes analytics? Please help when convenient. Thanks.",product,low
+TKT-00073,"Support team, My invoice has the wrong tax amount. This is a critical issue and is affecting my service. Please advise.",billing,high
+TKT-00948,"Hi team, I want to compare the available subscription plans. Please resolve this as soon as possible. I appreciate your help.",product,high
+TKT-00747,"Hello support, My password reset link is not working. The issue is important but not an emergency. Thanks.",account,medium
+TKT-00716,Please help: I need help changing my account details. I appreciate your help.,account,medium
+TKT-00558,"Hi team, I am getting an unexpected error while saving changes. Please provide guidance when possible. Please advise.",technical,low
+TKT-01082,"Support team, I want to compare the available subscription plans. I need assistance with this problem. Thank you.",product,medium
+TKT-01046,"Hello support, The new feature is not available on my plan.",product,medium
+TKT-00553,"Hello support, The application crashes when I open the dashboard. This is a general question. Thanks.",technical,low
+TKT-00562,I need assistance: The software shows a blank screen after login. Please help when convenient. I appreciate your help.,technical,low
+TKT-00425,"Hello support, Notifications are not appearing in the app. I would appreciate a timely solution.",technical,medium
+TKT-01014,I need assistance: Can you explain what is included in the premium plan? I need assistance with this problem. Thank you.,product,medium
+TKT-00326,The software shows a blank screen after login. Please advise.,technical,high
+TKT-00924,"Hello support, I want to compare the available subscription plans. This is urgent and needs immediate attention. Please advise.",product,high
+TKT-00317,The application stopped working after the latest update. Please treat this as a high-priority request. I appreciate your help.,technical,high
+TKT-00804,Could you please help? I need help changing my account details. Please help when convenient.,account,low
+TKT-01163,"Hi team, The new feature is not available on my plan. Please provide guidance when possible. Thank you.",product,low
+TKT-00529,I need assistance: The server appears to be down and I cannot use the service. I would like some information about this.,technical,low
+TKT-00837,Could you please help? My password reset link is not working. There is no immediate rush. Thank you.,account,low
+TKT-00715,"Hello support, I need help changing my account details. Please investigate this when possible today. I appreciate your help.",account,medium
+TKT-00901,Please help: The new feature is not available on my plan. Thanks.,product,high
+TKT-00061,Please help: My payment of $50 went through but the subscription is still inactive. Thanks.,billing,high
+TKT-00723,"Support team, My verification code is not arriving. Please help me resolve this soon.",account,medium
+TKT-00093,"Hi team, Can you help me update my billing details? This is urgent and needs immediate attention. Please advise.",billing,high
+TKT-00858,Could you please help? I want to update my profile information. I would like some information about this. Thank you.,account,low
+TKT-00619,"Hello support, Please change the email address on my account. This is blocking my work right now. Thank you.",account,high
+TKT-00352,The application stopped working after the latest update. I need help immediately because I cannot continue. Please advise.,technical,high
+TKT-00933,Could you please help? Is this product feature available for all users? This is a critical issue and is affecting my service. Please advise.,product,high
+TKT-00281,I need assistance: Please explain the invoice for my recent purchase. Thanks.,billing,low
+TKT-00421,The page keeps timing out before it finishes loading. Thanks.,technical,medium
+TKT-01115,"Hi team, Can I upgrade my plan to get advanced reports? There is no immediate rush. Please advise.",product,low
+TKT-00360,Could you please help? The page keeps timing out before it finishes loading. Please resolve this as soon as possible. Please advise.,technical,high
+TKT-00423,"Hi team, The server appears to be down and I cannot use the service. Please help me resolve this soon.",technical,medium
+TKT-00679,My verification code is not arriving. Please treat this as a high-priority request. Thanks.,account,high
+TKT-00527,I need assistance: The server appears to be down and I cannot use the service. I can wait for a normal response. I appreciate your help.,technical,low
+TKT-00478,The application stopped working after the latest update. I need assistance with this problem. Thanks.,technical,medium
+TKT-01095,Please help: How does the new reporting feature work? Please investigate this when possible today. I appreciate your help.,product,medium
+TKT-00183,Please help: The refund has not appeared in my account yet. I would appreciate a timely solution. I appreciate your help.,billing,medium
+TKT-01092,"Support team, Does the basic plan include this functionality? The issue is important but not an emergency. I appreciate your help.",product,medium
+TKT-00433,Please help: The server appears to be down and I cannot use the service. I would appreciate a timely solution. Thanks.,technical,medium
+TKT-00111,I need assistance: My monthly bill contains an unexpected charge. Please advise.,billing,medium
+TKT-00371,Please help: Notifications are not appearing in the app. Thanks.,technical,high
+TKT-00240,Please help: Why was I charged a renewal fee? Please provide guidance when possible. Thank you.,billing,low
+TKT-00709,Please help: I want to update my profile information. Please investigate this when possible today. I appreciate your help.,account,medium
+TKT-00630,"Support team, Please change the email address on my account. This is urgent and needs immediate attention. Thank you.",account,high
+TKT-00594,I need assistance: The application crashes when I open the dashboard. Please provide guidance when possible. Thanks.,technical,low
+TKT-00486,Please help: I cannot connect to the service from my computer. Thank you.,technical,medium
+TKT-00701,"Hello support, My account was locked after several login attempts. Thank you.",account,medium
+TKT-00262,"Hi team, My invoice has the wrong tax amount. This is a general question.",billing,low
+TKT-00480,Please help: I cannot connect to the service from my computer. I need assistance with this problem. Please advise.,technical,medium
+TKT-00650,"Support team, My verification code is not arriving. This is blocking my work right now. Thanks.",account,high
+TKT-00340,I need assistance: The website is loading extremely slowly. This is urgent and needs immediate attention.,technical,high
+TKT-00669,Please help: Please change the email address on my account. This is urgent and needs immediate attention. Please advise.,account,high
+TKT-00552,"Hi team, The website is loading extremely slowly. This is a general question. Thank you.",technical,low
+TKT-00459,The search function returns an error every time. This is affecting my work but I can wait for a response. Thank you.,technical,medium
+TKT-00184,Please help: My monthly bill contains an unexpected charge. I need assistance with this problem. Please advise.,billing,medium
+TKT-00138,Please help: Please explain the invoice for my recent purchase. This is affecting my work but I can wait for a response. Thank you.,billing,medium
+TKT-01161,"Support team, Can I upgrade my plan to get advanced reports?",product,low
+TKT-00707,How do I update my phone number? The issue is important but not an emergency. Please advise.,account,medium
+TKT-00582,"Hello support, The mobile app freezes when I upload a file. I would like some information about this. Please advise.",technical,low
+TKT-00081,I need assistance: My invoice has the wrong tax amount. I appreciate your help.,billing,high
+TKT-00769,My account login is being rejected. This is affecting my work but I can wait for a response.,account,medium
+TKT-00870,"Hello support, How do I update my phone number? I would like some information about this. Thank you.",account,low
+TKT-00762,Please help: I need help changing my account details. This is affecting my work but I can wait for a response.,account,medium
+TKT-00030,Please help: Why was I charged a renewal fee? I need help immediately because I cannot continue. I appreciate your help.,billing,high
+TKT-00542,Could you please help? I cannot connect to the service from my computer. Please provide guidance when possible. Please advise.,technical,low
+TKT-00166,Can you help me update my billing details? I appreciate your help.,billing,medium
+TKT-00249,Please help: My invoice has the wrong tax amount. There is no immediate rush. Please advise.,billing,low
+TKT-00308,"Support team, I cannot connect to the service from my computer. This is a critical issue and is affecting my service.",technical,high
+TKT-00448,"Hello support, I cannot connect to the service from my computer. Please investigate this when possible today. I appreciate your help.",technical,medium
+TKT-00347,Could you please help? The server appears to be down and I cannot use the service. Please resolve this as soon as possible. Please advise.,technical,high
+TKT-00335,Notifications are not appearing in the app. I need help immediately because I cannot continue. Thank you.,technical,high
+TKT-00286,My invoice has the wrong tax amount. I appreciate your help.,billing,low
+TKT-00950,Please help: The feature I need is missing from my current package. This is blocking my work right now. Please advise.,product,high
+TKT-00098,Could you please help? The payment page keeps rejecting my card. I need help immediately because I cannot continue. Thank you.,billing,high
+TKT-00468,Could you please help? The application stopped working after the latest update. Please help me resolve this soon.,technical,medium
+TKT-01037,Could you please help? I want to compare the available subscription plans. Please help me resolve this soon. Thanks.,product,medium
+TKT-00913,"Hello support, The new feature is not available on my plan. Please resolve this as soon as possible. Thank you.",product,high
+TKT-00756,"Hello support, How do I update my phone number?",account,medium
+TKT-00945,"Hello support, How does the new reporting feature work? Please treat this as a high-priority request. Thank you.",product,high
+TKT-00614,"Support team, I cannot access my profile. This is a critical issue and is affecting my service. Thanks.",account,high
+TKT-00802,My account was locked after several login attempts. I can wait for a normal response.,account,low
+TKT-00758,I need assistance: I need help changing my account details. Please help me resolve this soon.,account,medium
+TKT-00689,I need assistance: I cannot access my profile. This is a critical issue and is affecting my service. I appreciate your help.,account,high
+TKT-00066,"Support team, The card payment failed even though my bank shows the amount as deducted. I appreciate your help.",billing,high
+TKT-00794,"Support team, Please change the email address on my account. I would appreciate a timely solution. I appreciate your help.",account,medium
+TKT-00744,"Hi team, I need help changing my account details. I need assistance with this problem. Please advise.",account,medium
+TKT-00568,Could you please help? I get a 500 error when trying to log in. This is a general question.,technical,low
+TKT-01084,"Hello support, Please explain how the new dashboard feature works. This is affecting my work but I can wait for a response. I appreciate your help.",product,medium
+TKT-01099,"Support team, The new feature is not available on my plan. I would appreciate a timely solution. Please advise.",product,medium
+TKT-00303,"Hi team, The website is loading extremely slowly. This is a critical issue and is affecting my service. Thank you.",technical,high
+TKT-00255,Please help: My invoice has the wrong tax amount. There is no immediate rush. Thank you.,billing,low
+TKT-00959,Please explain how the new dashboard feature works. Please treat this as a high-priority request. Thanks.,product,high
+TKT-01024,Please help: Where can I find documentation for the new feature? Please help me resolve this soon. Thanks.,product,medium
+TKT-00313,"Support team, I get a 500 error when trying to log in. This is blocking my work right now. Thank you.",technical,high
+TKT-00530,"Hi team, The search function returns an error every time. Please provide guidance when possible. Thanks.",technical,low
+TKT-00222,I need assistance: Please explain the invoice for my recent purchase. This is a general question. Thanks.,billing,low
+TKT-00389,"Hello support, The mobile app freezes when I upload a file. I need help immediately because I cannot continue. Thank you.",technical,high
+TKT-00236,"Support team, I cannot download my receipt from the billing page. Thank you.",billing,low
+TKT-00810,I cannot access my profile. I would like some information about this. I appreciate your help.,account,low
+TKT-00483,"Hi team, The search function returns an error every time. This is affecting my work but I can wait for a response. Please advise.",technical,medium
+TKT-00713,"Hi team, How do I update my phone number? This is affecting my work but I can wait for a response.",account,medium
+TKT-00306,"Hello support, The website is loading extremely slowly. Thanks.",technical,high
+TKT-01111,Please help: Where can I find documentation for the new feature? Please advise.,product,low
+TKT-01090,I want to compare the available subscription plans. I would appreciate a timely solution. Please advise.,product,medium
+TKT-00772,My account was locked after several login attempts. I need assistance with this problem. Thank you.,account,medium
+TKT-00917,Please help: The new feature is not available on my plan. This is a critical issue and is affecting my service. I appreciate your help.,product,high
+TKT-01139,"Hello support, Where can I find documentation for the new feature? There is no immediate rush. I appreciate your help.",product,low
+TKT-00250,Please help: My monthly bill contains an unexpected charge. Please provide guidance when possible.,billing,low
+TKT-00760,I need assistance: I want to update my profile information. Please investigate this when possible today. Thanks.,account,medium
+TKT-00595,Please help: The page keeps timing out before it finishes loading. Please provide guidance when possible. Thanks.,technical,low
+TKT-00072,Why was I charged a renewal fee? This is a critical issue and is affecting my service. Thanks.,billing,high
+TKT-00095,Could you please help? My invoice has the wrong tax amount. This is blocking my work right now. I appreciate your help.,billing,high
+TKT-00546,Could you please help? I cannot connect to the service from my computer.,technical,low
+TKT-00034,Can you help me update my billing details? I need help immediately because I cannot continue. Please advise.,billing,high
+TKT-00862,"Hello support, My verification code is not arriving. I would like some information about this. Thanks.",account,low
+TKT-00579,"Hello support, The page keeps timing out before it finishes loading. I can wait for a normal response. Thank you.",technical,low
+TKT-00449,I need assistance: The search function returns an error every time. I would appreciate a timely solution. Please advise.,technical,medium
+TKT-00446,The search function returns an error every time. I appreciate your help.,technical,medium
+TKT-00260,I need assistance: Why was I charged a renewal fee? I can wait for a normal response. Thank you.,billing,low
+TKT-00205,Please help: Please explain the invoice for my recent purchase. This is a general question. I appreciate your help.,billing,low
+TKT-00573,The application stopped working after the latest update. Please provide guidance when possible. I appreciate your help.,technical,low
+TKT-00824,"Hi team, My account login is being rejected. Please help when convenient. Please advise.",account,low
+TKT-00586,"Hello support, The software shows a blank screen after login.",technical,low
+TKT-00366,"Hello support, The search function returns an error every time. Thanks.",technical,high
+TKT-00812,"Support team, I want to update my profile information. Please provide guidance when possible. Thank you.",account,low
+TKT-00078,"Hello support, I need a refund for an order I placed yesterday. This is blocking my work right now. Please advise.",billing,high
+TKT-00085,Could you please help? I need a refund for an order I placed yesterday. Please treat this as a high-priority request. Please advise.,billing,high
+TKT-00539,I need assistance: The software shows a blank screen after login. There is no immediate rush. I appreciate your help.,technical,low
+TKT-00083,"Support team, My payment of $25 went through but the subscription is still inactive. Please treat this as a high-priority request. Thank you.",billing,high
+TKT-00458,I need assistance: I am getting an unexpected error while saving changes. I need assistance with this problem. Thank you.,technical,medium
+TKT-01138,"Hi team, Where can I find documentation for the new feature? This is a general question. Please advise.",product,low
+TKT-00615,"Hi team, I cannot access my profile. Please resolve this as soon as possible. Thank you.",account,high
+TKT-01186,"Hello support, Is this product feature available for all users? Thanks.",product,low
+TKT-01076,"Support team, How does the new reporting feature work? Thanks.",product,medium
+TKT-00737,Could you please help? I cannot access my profile. I would appreciate a timely solution. I appreciate your help.,account,medium
+TKT-00437,"Support team, The application stopped working after the latest update. This is affecting my work but I can wait for a response. Please advise.",technical,medium
+TKT-00555,"Hi team, The application crashes when I open the dashboard. Please provide guidance when possible. Thank you.",technical,low
+TKT-01080,Could you please help? How does the new reporting feature work? The issue is important but not an emergency. Thank you.,product,medium
+TKT-01062,"Support team, I want to compare the available subscription plans. I need assistance with this problem. Please advise.",product,medium
+TKT-00351,Please help: The software shows a blank screen after login.,technical,high
+TKT-00197,"Hi team, Please explain the invoice for my recent purchase. Please investigate this when possible today.",billing,medium
+TKT-00465,Please help: The search function returns an error every time. Please help me resolve this soon. Thanks.,technical,medium
+TKT-00589,"Support team, I am getting an unexpected error while saving changes. I would like some information about this. I appreciate your help.",technical,low
+TKT-00006,I need assistance: I need a refund for an order I placed yesterday. I appreciate your help.,billing,high
+TKT-00311,Please help: The software shows a blank screen after login. Thanks.,technical,high
+TKT-00662,"Hello support, My password reset link is not working. This is a critical issue and is affecting my service. I appreciate your help.",account,high
+TKT-00405,"Hi team, I get a 500 error when trying to log in. The issue is important but not an emergency.",technical,medium
+TKT-01196,Please help: Please explain how the new dashboard feature works. I appreciate your help.,product,low
+TKT-01044,"Support team, Can I upgrade my plan to get advanced reports? Please investigate this when possible today. Thanks.",product,medium
+TKT-01058,"Support team, The new feature is not available on my plan. I need assistance with this problem. I appreciate your help.",product,medium
+TKT-00105,"Support team, My payment of $75 went through but the subscription is still inactive. This is affecting my work but I can wait for a response. Please advise.",billing,medium
+TKT-00537,Please help: The website is loading extremely slowly. Please provide guidance when possible. Thanks.,technical,low
+TKT-00606,I need assistance: My account was locked after several login attempts. Thanks.,account,high
+TKT-00063,"Hi team, Can you help me update my billing details? I need help immediately because I cannot continue. Thanks.",billing,high
+TKT-00282,Could you please help? The refund has not appeared in my account yet. There is no immediate rush. Thanks.,billing,low
+TKT-01056,Please help: Does the basic plan include this functionality? I appreciate your help.,product,medium
+TKT-00239,I need assistance: The card payment failed even though my bank shows the amount as deducted. I would like some information about this. Please advise.,billing,low
+TKT-00224,"Hi team, I was charged $100 twice for my order. There is no immediate rush. Please advise.",billing,low
+TKT-00146,Please help: Can you help me update my billing details? Please advise.,billing,medium
+TKT-01119,"Hello support, Does the basic plan include this functionality? Please provide guidance when possible. Please advise.",product,low
+TKT-00374,I cannot connect to the service from my computer. Please resolve this as soon as possible. Thanks.,technical,high
+TKT-00119,Please help: Why was I charged a renewal fee? I would appreciate a timely solution. Thanks.,billing,medium
+TKT-00803,Please help: I forgot my password and cannot sign in. There is no immediate rush. Please advise.,account,low
+TKT-00251,Please help: My monthly bill contains an unexpected charge. Please advise.,billing,low
+TKT-01157,"Support team, Is this product feature available for all users? I can wait for a normal response. I appreciate your help.",product,low
+TKT-00010,My payment of $25 went through but the subscription is still inactive. I need help immediately because I cannot continue. Please advise.,billing,high
+TKT-00450,I need assistance: The mobile app freezes when I upload a file. Please help me resolve this soon. Thank you.,technical,medium
+TKT-00874,I need assistance: I need help changing my account details. Please provide guidance when possible. Please advise.,account,low
+TKT-00390,"Hi team, The website is loading extremely slowly. This is urgent and needs immediate attention.",technical,high
+TKT-00966,"Hi team, Where can I find documentation for the new feature? I appreciate your help.",product,high
+TKT-00461,Please help: The page keeps timing out before it finishes loading. I appreciate your help.,technical,medium
+TKT-01147,Please help: Does the basic plan include this functionality? There is no immediate rush. Please advise.,product,low
+TKT-00145,"Hello support, Why was I charged a renewal fee? The issue is important but not an emergency. Please advise.",billing,medium
+TKT-00502,"Hello support, The page keeps timing out before it finishes loading. Please help when convenient. I appreciate your help.",technical,low
+TKT-01108,Is this product feature available for all users? There is no immediate rush.,product,low
+TKT-00540,I need assistance: The mobile app freezes when I upload a file. Please provide guidance when possible.,technical,low
+TKT-00178,"Hello support, The refund has not appeared in my account yet. Please help me resolve this soon. Thanks.",billing,medium
+TKT-01159,"Support team, I want to compare the available subscription plans. There is no immediate rush. Please advise.",product,low
+TKT-01051,Please help: The new feature is not available on my plan. Thank you.,product,medium
+TKT-00584,"Hello support, Notifications are not appearing in the app. Please help when convenient.",technical,low
+TKT-01195,"Support team, The feature I need is missing from my current package. I would like some information about this. Please advise.",product,low
+TKT-00008,Please help: I was charged $50 twice for my order. Please treat this as a high-priority request. Please advise.,billing,high
+TKT-00574,The application crashes when I open the dashboard. This is a general question. Please advise.,technical,low
+TKT-00843,How can I enable two-factor authentication? This is a general question. Thanks.,account,low
+TKT-00358,"Hello support, The server appears to be down and I cannot use the service. This is blocking my work right now. Please advise.",technical,high
+TKT-00330,"Support team, The search function returns an error every time. This is blocking my work right now. Thank you.",technical,high
+TKT-00705,Could you please help? My account was locked after several login attempts. I need assistance with this problem.,account,medium
+TKT-00830,"Hi team, My verification code is not arriving. This is a general question.",account,low
+TKT-00259,"Hello support, My invoice has the wrong tax amount. Please help when convenient.",billing,low
+TKT-00891,I need assistance: I want to update my profile information.,account,low
+TKT-00834,"Hi team, I forgot my password and cannot sign in. I would like some information about this. Thank you.",account,low
+TKT-01188,"Hi team, The new feature is not available on my plan. Please help when convenient. Thanks.",product,low
+TKT-00905,Could you please help? Where can I find documentation for the new feature? Please resolve this as soon as possible. Please advise.,product,high
+TKT-00526,"Support team, The search function returns an error every time. Please advise.",technical,low
+TKT-00814,"Hello support, How can I enable two-factor authentication? Please help when convenient.",account,low
+TKT-00732,I need assistance: My account was locked after several login attempts. Please investigate this when possible today. Please advise.,account,medium
+TKT-01032,Could you please help? Please explain how the new dashboard feature works. Please investigate this when possible today. Thanks.,product,medium
+TKT-01141,I would like information about the latest product update.,product,low
+TKT-00441,"Support team, The application crashes when I open the dashboard. Thanks.",technical,medium
+TKT-00532,I am getting an unexpected error while saving changes. Please help when convenient. I appreciate your help.,technical,low
+TKT-00960,Please help: I would like information about the latest product update. I need help immediately because I cannot continue. Thanks.,product,high
+TKT-00229,"Hello support, I need a refund for an order I placed yesterday. I can wait for a normal response. Please advise.",billing,low
+TKT-01041,"Support team, I want to compare the available subscription plans. I appreciate your help.",product,medium
+TKT-00213,"Hi team, My payment of $100 went through but the subscription is still inactive. Please provide guidance when possible. Thanks.",billing,low
+TKT-00080,"Hi team, I cannot download my receipt from the billing page. Please treat this as a high-priority request. I appreciate your help.",billing,high
+TKT-00149,I need assistance: Can you help me update my billing details? Please investigate this when possible today.,billing,medium
+TKT-00592,"Support team, The server appears to be down and I cannot use the service. I can wait for a normal response. Thank you.",technical,low
+TKT-00708,I need assistance: My account login is being rejected. Please investigate this when possible today. Please advise.,account,medium
+TKT-00590,"Hi team, The software shows a blank screen after login. Please help when convenient. Thank you.",technical,low
+TKT-00134,Could you please help? I cannot download my receipt from the billing page. This is affecting my work but I can wait for a response. Please advise.,billing,medium
+TKT-00782,I forgot my password and cannot sign in. This is affecting my work but I can wait for a response.,account,medium
+TKT-00409,"Hi team, The website is loading extremely slowly. Please help me resolve this soon. Thanks.",technical,medium
+TKT-00970,Please help: I would like information about the latest product update. This is urgent and needs immediate attention.,product,high
+TKT-00508,Could you please help? Notifications are not appearing in the app. I can wait for a normal response. I appreciate your help.,technical,low
+TKT-00877,I need assistance: How do I update my phone number? Please help when convenient. I appreciate your help.,account,low
+TKT-00505,"Support team, The page keeps timing out before it finishes loading. Please help when convenient. I appreciate your help.",technical,low
+TKT-00719,Could you please help? My verification code is not arriving. Please help me resolve this soon. Please advise.,account,medium
+TKT-00348,The server appears to be down and I cannot use the service. This is urgent and needs immediate attention. Thanks.,technical,high
+TKT-00387,Please help: I get a 500 error when trying to log in. Please treat this as a high-priority request. I appreciate your help.,technical,high
+TKT-00001,I need assistance: My invoice has the wrong tax amount. Please advise.,billing,high
+TKT-00361,Could you please help? The search function returns an error every time. Thank you.,technical,high
+TKT-01134,Could you please help? I want to compare the available subscription plans. I would like some information about this. Please advise.,product,low
+TKT-00476,The application crashes when I open the dashboard. I appreciate your help.,technical,medium
+TKT-00778,My verification code is not arriving. Please investigate this when possible today. I appreciate your help.,account,medium
+TKT-00754,Could you please help? My account login is being rejected. This is affecting my work but I can wait for a response. Please advise.,account,medium
+TKT-00173,Could you please help? The card payment failed even though my bank shows the amount as deducted. This is affecting my work but I can wait for a response. Thanks.,billing,medium
+TKT-00451,"Support team, I cannot connect to the service from my computer.",technical,medium
+TKT-00126,I need assistance: My invoice has the wrong tax amount. Thanks.,billing,medium
+TKT-00931,"Support team, I would like information about the latest product update.",product,high
+TKT-00531,"Hi team, The mobile app freezes when I upload a file. I appreciate your help.",technical,low
+TKT-00091,"Hello support, My payment of $25 went through but the subscription is still inactive. I appreciate your help.",billing,high
+TKT-01162,"Hello support, Does the basic plan include this functionality? This is a general question. Thank you.",product,low
+TKT-00182,"Hi team, The card payment failed even though my bank shows the amount as deducted. Please investigate this when possible today. Thanks.",billing,medium
+TKT-01027,I need assistance: Is this product feature available for all users? This is affecting my work but I can wait for a response. Please advise.,product,medium
+TKT-01000,I need assistance: I would like information about the latest product update. This is a critical issue and is affecting my service. Thank you.,product,high
+TKT-00252,Could you please help? My invoice has the wrong tax amount. This is a general question. I appreciate your help.,billing,low
+TKT-00070,I need assistance: My payment of $149 went through but the subscription is still inactive. This is urgent and needs immediate attention. Thank you.,billing,high
+TKT-00132,Please help: Why was I charged a renewal fee? Please investigate this when possible today. I appreciate your help.,billing,medium
+TKT-00301,Could you please help? The mobile app freezes when I upload a file. Thank you.,technical,high
+TKT-01133,"Support team, Please explain how the new dashboard feature works. Please provide guidance when possible. Thank you.",product,low
+TKT-00327,Notifications are not appearing in the app. This is blocking my work right now. I appreciate your help.,technical,high
+TKT-01020,Could you please help? Is this product feature available for all users? Please help me resolve this soon. Thank you.,product,medium
+TKT-00500,"Support team, The server appears to be down and I cannot use the service. I need assistance with this problem.",technical,medium
+TKT-00666,Could you please help? I need help changing my account details.,account,high
+TKT-00919,"Support team, Is this product feature available for all users? This is a critical issue and is affecting my service. Thanks.",product,high
+TKT-00496,Could you please help? The server appears to be down and I cannot use the service. Thanks.,technical,medium
+TKT-00339,Notifications are not appearing in the app. This is urgent and needs immediate attention. Thank you.,technical,high
+TKT-00964,"Hi team, Please explain how the new dashboard feature works. This is a critical issue and is affecting my service. Thank you.",product,high
+TKT-00165,"Hi team, My payment of $149 went through but the subscription is still inactive. Please help me resolve this soon. I appreciate your help.",billing,medium
+TKT-00029,"Hello support, My payment of $50 went through but the subscription is still inactive. Please treat this as a high-priority request. Thanks.",billing,high
+TKT-00517,"Hello support, I cannot connect to the service from my computer. This is a general question. Thanks.",technical,low
+TKT-00194,"Hello support, I cannot download my receipt from the billing page. I would appreciate a timely solution.",billing,medium
+TKT-01104,Could you please help? How does the new reporting feature work? Please provide guidance when possible. Thank you.,product,low
+TKT-00170,Could you please help? My invoice has the wrong tax amount. Please investigate this when possible today. I appreciate your help.,billing,medium
+TKT-01059,Please help: Can I upgrade my plan to get advanced reports? The issue is important but not an emergency. I appreciate your help.,product,medium
+TKT-00174,Please help: Why was I charged a renewal fee? I need assistance with this problem. Please advise.,billing,medium
+TKT-00519,I cannot connect to the service from my computer. Please provide guidance when possible. Thank you.,technical,low
+TKT-00969,"Hi team, The feature I need is missing from my current package. This is blocking my work right now. I appreciate your help.",product,high
+TKT-00702,Please help: My account login is being rejected. The issue is important but not an emergency.,account,medium
+TKT-00492,"Hello support, The page keeps timing out before it finishes loading. This is affecting my work but I can wait for a response. I appreciate your help.",technical,medium
+TKT-00074,I need assistance: The card payment failed even though my bank shows the amount as deducted. Please treat this as a high-priority request. Please advise.,billing,high
+TKT-00981,"Support team, The feature I need is missing from my current package. Thank you.",product,high
+TKT-00588,"Hi team, The application crashes when I open the dashboard. I can wait for a normal response. Thank you.",technical,low
+TKT-00235,Please help: The refund has not appeared in my account yet. I would like some information about this. Thanks.,billing,low
+TKT-00215,Please help: My payment of $149 went through but the subscription is still inactive. There is no immediate rush. Please advise.,billing,low
+TKT-00947,"Hello support, Please explain how the new dashboard feature works. I need help immediately because I cannot continue. Thank you.",product,high
+TKT-00133,Could you please help? I cannot download my receipt from the billing page. I need assistance with this problem. Thanks.,billing,medium
+TKT-01156,Could you please help? Is this product feature available for all users? Please advise.,product,low
+TKT-00733,Please help: How can I enable two-factor authentication? I need assistance with this problem. Thank you.,account,medium
+TKT-00941,Could you please help? I want to compare the available subscription plans. Thanks.,product,high
+TKT-00186,"Support team, My monthly bill contains an unexpected charge. Thank you.",billing,medium
+TKT-00042,"Support team, The refund has not appeared in my account yet. This is blocking my work right now. I appreciate your help.",billing,high
+TKT-00109,I was charged $199 twice for my order. The issue is important but not an emergency. I appreciate your help.,billing,medium
+TKT-00849,I need assistance: Please change the email address on my account. Please help when convenient. I appreciate your help.,account,low
+TKT-00569,Please help: I cannot connect to the service from my computer. I can wait for a normal response. Thanks.,technical,low
+TKT-00651,"Support team, I need help changing my account details. Thanks.",account,high
+TKT-01001,I need assistance: The feature I need is missing from my current package. I appreciate your help.,product,medium
+TKT-01166,Please help: Can I upgrade my plan to get advanced reports? Thanks.,product,low
+TKT-00484,"Hello support, I am getting an unexpected error while saving changes. The issue is important but not an emergency. Please advise.",technical,medium
+TKT-00469,"Hello support, The page keeps timing out before it finishes loading. I would appreciate a timely solution. Thank you.",technical,medium
+TKT-00025,"Hello support, Please explain the invoice for my recent purchase. Please resolve this as soon as possible. I appreciate your help.",billing,high
+TKT-00661,Please help: I need help changing my account details. Thanks.,account,high
+TKT-00680,I need assistance: My account login is being rejected. Please resolve this as soon as possible. Please advise.,account,high
+TKT-00753,I need assistance: I forgot my password and cannot sign in. This is affecting my work but I can wait for a response. Thank you.,account,medium
+TKT-00994,I want to compare the available subscription plans. This is a critical issue and is affecting my service.,product,high
+TKT-00367,I need assistance: I get a 500 error when trying to log in. I need help immediately because I cannot continue. Please advise.,technical,high
+TKT-00840,I need assistance: I forgot my password and cannot sign in. Please help when convenient. Thanks.,account,low
+TKT-01053,"Support team, Can you explain what is included in the premium plan? I need assistance with this problem.",product,medium
+TKT-00384,The website is loading extremely slowly. Please treat this as a high-priority request. Please advise.,technical,high
+TKT-00455,Could you please help? I am getting an unexpected error while saving changes. Please help me resolve this soon. Please advise.,technical,medium
+TKT-00265,"Hi team, My invoice has the wrong tax amount. Please provide guidance when possible. Thanks.",billing,low
+TKT-00761,"Hi team, I forgot my password and cannot sign in.",account,medium
+TKT-00980,Please help: Please explain how the new dashboard feature works. I need help immediately because I cannot continue. Thanks.,product,high
+TKT-00445,"Hello support, The application crashes when I open the dashboard. Please help me resolve this soon. Please advise.",technical,medium
+TKT-00396,Could you please help? Notifications are not appearing in the app. Thanks.,technical,high
+TKT-00742,Please help: My account login is being rejected. I need assistance with this problem. Thanks.,account,medium
+TKT-00177,"Support team, Why was I charged a renewal fee? I would appreciate a timely solution.",billing,medium
+TKT-00019,"Support team, Why was I charged a renewal fee? Please resolve this as soon as possible. Thank you.",billing,high
+TKT-00949,I need assistance: I would like information about the latest product update. Please treat this as a high-priority request. Please advise.,product,high
+TKT-00815,"Support team, I need help changing my account details. Please help when convenient. Please advise.",account,low
+TKT-00596,"Hello support, The website is loading extremely slowly. I appreciate your help.",technical,low
+TKT-00062,I cannot download my receipt from the billing page. I need help immediately because I cannot continue. Thank you.,billing,high
+TKT-00273,I need assistance: My invoice has the wrong tax amount. Please provide guidance when possible. Thank you.,billing,low
+TKT-01126,"Hello support, I would like information about the latest product update. I appreciate your help.",product,low
+TKT-00279,Could you please help? Please explain the invoice for my recent purchase. This is a general question. Please advise.,billing,low
+TKT-00842,"Support team, My verification code is not arriving. Please help when convenient. Thanks.",account,low
+TKT-00369,Please help: I get a 500 error when trying to log in. I need help immediately because I cannot continue.,technical,high
+TKT-00887,Could you please help? Please change the email address on my account. There is no immediate rush.,account,low
+TKT-01015,"Support team, Can I upgrade my plan to get advanced reports? The issue is important but not an emergency. Please advise.",product,medium
+TKT-00860,I need assistance: I want to update my profile information. Please provide guidance when possible. Please advise.,account,low
+TKT-00721,Please help: Someone changed the email on my account and I cannot log in. Thanks.,account,medium
+TKT-00826,"Hello support, How do I update my phone number?",account,low
+TKT-00548,I need assistance: I am getting an unexpected error while saving changes. There is no immediate rush. Please advise.,technical,low
+TKT-00880,I need assistance: How can I enable two-factor authentication? Please provide guidance when possible. Please advise.,account,low
+TKT-00900,Please change the email address on my account. I would like some information about this. Thanks.,account,low
+TKT-00457,Could you please help? The page keeps timing out before it finishes loading. I would appreciate a timely solution. Thank you.,technical,medium
+TKT-00394,The website is loading extremely slowly. I need help immediately because I cannot continue. Thanks.,technical,high
+TKT-00676,"Hello support, How do I update my phone number? I appreciate your help.",account,high
+TKT-00912,"Support team, Does the basic plan include this functionality? Please treat this as a high-priority request. Thank you.",product,high
+TKT-00965,"Hi team, Please explain how the new dashboard feature works. Please resolve this as soon as possible.",product,high
+TKT-00376,"Hello support, The software shows a blank screen after login. Thanks.",technical,high
+TKT-00413,Could you please help? The page keeps timing out before it finishes loading. Please help me resolve this soon. Please advise.,technical,medium
+TKT-00075,"Hello support, I need a refund for an order I placed yesterday. I need help immediately because I cannot continue. Please advise.",billing,high
+TKT-01122,Please help: Can you explain what is included in the premium plan? I can wait for a normal response. I appreciate your help.,product,low
+TKT-00863,"Hello support, I forgot my password and cannot sign in. There is no immediate rush. I appreciate your help.",account,low
+TKT-00501,"Hi team, The website is loading extremely slowly. Please advise.",technical,low
+TKT-00942,"Hi team, I want to compare the available subscription plans. This is blocking my work right now. Thank you.",product,high
+TKT-00617,"Hi team, My account login is being rejected. This is blocking my work right now. Thanks.",account,high
+TKT-00115,I need assistance: Please explain the invoice for my recent purchase. The issue is important but not an emergency. Thanks.,billing,medium
+TKT-00418,"Support team, The server appears to be down and I cannot use the service. Please help me resolve this soon. Please advise.",technical,medium
+TKT-00602,I need assistance: I forgot my password and cannot sign in. I need help immediately because I cannot continue. I appreciate your help.,account,high
+TKT-00605,My account was locked after several login attempts. This is blocking my work right now. Thank you.,account,high
+TKT-00090,"Support team, The refund has not appeared in my account yet. I need help immediately because I cannot continue.",billing,high
+TKT-01149,"Hello support, Please explain how the new dashboard feature works. I can wait for a normal response. Thanks.",product,low
+TKT-00499,Please help: I get a 500 error when trying to log in. Please investigate this when possible today. I appreciate your help.,technical,medium
+TKT-00876,"Hello support, I need help changing my account details. I appreciate your help.",account,low
+TKT-00927,"Hi team, Can you explain what is included in the premium plan? I need help immediately because I cannot continue. Please advise.",product,high
+TKT-00999,I need assistance: The feature I need is missing from my current package. This is urgent and needs immediate attention. I appreciate your help.,product,high
+TKT-00012,The payment page keeps rejecting my card. This is a critical issue and is affecting my service. Thanks.,billing,high
+TKT-00397,"Hi team, The mobile app freezes when I upload a file. Please resolve this as soon as possible. Thanks.",technical,high
+TKT-00755,"Hi team, My password reset link is not working. I would appreciate a timely solution.",account,medium
+TKT-00556,Please help: The application crashes when I open the dashboard. Please advise.,technical,low
+TKT-00043,Could you please help? Can you help me update my billing details? This is a critical issue and is affecting my service. Thank you.,billing,high
+TKT-00168,"Hi team, I cannot download my receipt from the billing page. The issue is important but not an emergency. Thanks.",billing,medium
+TKT-00417,"Hello support, The software shows a blank screen after login. Please investigate this when possible today. Thank you.",technical,medium
+TKT-00577,I need assistance: The application stopped working after the latest update. Please provide guidance when possible. I appreciate your help.,technical,low
+TKT-00268,"Hi team, Why was I charged a renewal fee? Please provide guidance when possible.",billing,low
+TKT-00808,"Hello support, Someone changed the email on my account and I cannot log in. There is no immediate rush. Thank you.",account,low
+TKT-00427,Please help: The software shows a blank screen after login. I need assistance with this problem. Thank you.,technical,medium
+TKT-00691,Please help: My verification code is not arriving. I appreciate your help.,account,high
+TKT-00545,Could you please help? The page keeps timing out before it finishes loading. Please help when convenient. I appreciate your help.,technical,low
+TKT-01123,"Hello support, Does the basic plan include this functionality? I would like some information about this. Please advise.",product,low
+TKT-00675,"Hi team, My account was locked after several login attempts. I need help immediately because I cannot continue. Thanks.",account,high
+TKT-00690,"Support team, Someone changed the email on my account and I cannot log in. Please treat this as a high-priority request. Thank you.",account,high
+TKT-01055,"Support team, Which subscription includes analytics? Please help me resolve this soon.",product,medium
+TKT-01177,Please help: Is this product feature available for all users? I would like some information about this. I appreciate your help.,product,low
+TKT-01033,Could you please help? Where can I find documentation for the new feature? Please help me resolve this soon. Thanks.,product,medium
+TKT-01035,I need assistance: Does the basic plan include this functionality? Please investigate this when possible today. Thanks.,product,medium
+TKT-00258,Please help: Please explain the invoice for my recent purchase. I can wait for a normal response. I appreciate your help.,billing,low
+TKT-00336,I am getting an unexpected error while saving changes. I appreciate your help.,technical,high
+TKT-00016,Please help: My payment of $50 went through but the subscription is still inactive. Please advise.,billing,high
+TKT-00902,I need assistance: Please explain how the new dashboard feature works. This is urgent and needs immediate attention. I appreciate your help.,product,high
+TKT-00325,Please help: The search function returns an error every time. This is urgent and needs immediate attention. Please advise.,technical,high
+TKT-00608,"Hi team, I need help changing my account details. This is a critical issue and is affecting my service. Please advise.",account,high
+TKT-01054,"Support team, Where can I find documentation for the new feature? I need assistance with this problem. I appreciate your help.",product,medium
+TKT-00791,My verification code is not arriving. Please advise.,account,medium
+TKT-00223,Could you please help? The card payment failed even though my bank shows the amount as deducted. This is a general question. I appreciate your help.,billing,low
+TKT-00180,Please help: My invoice has the wrong tax amount. The issue is important but not an emergency.,billing,medium
+TKT-00100,"Hello support, I was charged $100 twice for my order. Please resolve this as soon as possible. Thanks.",billing,high
+TKT-00522,"Hi team, The page keeps timing out before it finishes loading. I can wait for a normal response. Please advise.",technical,low
+TKT-00023,I need assistance: My payment of $50 went through but the subscription is still inactive. This is a critical issue and is affecting my service. Please advise.,billing,high
+TKT-00357,Notifications are not appearing in the app. This is a critical issue and is affecting my service. Thanks.,technical,high
+TKT-00734,Could you please help? I want to update my profile information. This is affecting my work but I can wait for a response. Thank you.,account,medium
+TKT-01094,"Hi team, Please explain how the new dashboard feature works. I would appreciate a timely solution. Please advise.",product,medium
+TKT-01112,Can you explain what is included in the premium plan? Please provide guidance when possible. I appreciate your help.,product,low
+TKT-00612,Please help: My account was locked after several login attempts. This is blocking my work right now.,account,high
+TKT-01010,Please help: I would like information about the latest product update. This is affecting my work but I can wait for a response. Please advise.,product,medium
+TKT-00341,Please help: The server appears to be down and I cannot use the service. Thanks.,technical,high
+TKT-00432,Could you please help? The server appears to be down and I cannot use the service. Please help me resolve this soon. Please advise.,technical,medium
+TKT-00962,I need assistance: How does the new reporting feature work? Please treat this as a high-priority request. Thank you.,product,high
+TKT-00218,Please help: Why was I charged a renewal fee? Please help when convenient. I appreciate your help.,billing,low
+TKT-00204,"Support team, Please explain the invoice for my recent purchase. Please help when convenient.",billing,low
+TKT-00906,Could you please help? I want to compare the available subscription plans.,product,high
+TKT-00923,Please help: I would like information about the latest product update. Please treat this as a high-priority request. I appreciate your help.,product,high
+TKT-00094,I need assistance: I was charged $75 twice for my order. Please resolve this as soon as possible. Thank you.,billing,high
+TKT-00911,"Support team, The feature I need is missing from my current package. I appreciate your help.",product,high
+TKT-00069,Please explain the invoice for my recent purchase. This is a critical issue and is affecting my service. Thank you.,billing,high
+TKT-00895,"Hi team, I cannot access my profile. I would like some information about this. Thank you.",account,low
+TKT-00285,"Hi team, Why was I charged a renewal fee? Please provide guidance when possible.",billing,low
+TKT-00697,How do I update my phone number? This is blocking my work right now.,account,high
+TKT-00086,Could you please help? The refund has not appeared in my account yet.,billing,high
+TKT-00435,"Hi team, I cannot connect to the service from my computer. The issue is important but not an emergency. I appreciate your help.",technical,medium
+TKT-00797,"Support team, How do I update my phone number? I would appreciate a timely solution.",account,medium
+TKT-00154,"Support team, I cannot download my receipt from the billing page. I need assistance with this problem.",billing,medium
+TKT-00076,I cannot download my receipt from the billing page. Thanks.,billing,high
+TKT-01043,Could you please help? Can I upgrade my plan to get advanced reports? This is affecting my work but I can wait for a response. Thanks.,product,medium
+TKT-00581,Could you please help? The application stopped working after the latest update. Thank you.,technical,low
+TKT-00447,"Hi team, The website is loading extremely slowly. The issue is important but not an emergency. Please advise.",technical,medium
+TKT-00704,I need assistance: I need help changing my account details. Please help me resolve this soon. Thank you.,account,medium
+TKT-00189,"Hello support, My payment of $50 went through but the subscription is still inactive. I would appreciate a timely solution. Please advise.",billing,medium
+TKT-00272,"Support team, I need a refund for an order I placed yesterday. Please help when convenient. Please advise.",billing,low
+TKT-00237,"Support team, Can you help me update my billing details? I can wait for a normal response. Thank you.",billing,low
+TKT-00488,Could you please help? Notifications are not appearing in the app. This is affecting my work but I can wait for a response. Thank you.,technical,medium
+TKT-01160,Please help: The feature I need is missing from my current package. I can wait for a normal response. Please advise.,product,low
+TKT-00560,"Support team, The website is loading extremely slowly. Please provide guidance when possible. Please advise.",technical,low
+TKT-00118,Please help: The card payment failed even though my bank shows the amount as deducted. This is affecting my work but I can wait for a response. I appreciate your help.,billing,medium
+TKT-00638,I want to update my profile information. This is a critical issue and is affecting my service. Thank you.,account,high
+TKT-01128,The new feature is not available on my plan. Please provide guidance when possible. Please advise.,product,low
+TKT-00751,Could you please help? I forgot my password and cannot sign in. Thanks.,account,medium
+TKT-00513,Notifications are not appearing in the app. Please provide guidance when possible. I appreciate your help.,technical,low
+TKT-00634,I need assistance: I cannot access my profile. This is urgent and needs immediate attention.,account,high
+TKT-00786,I cannot access my profile. I appreciate your help.,account,medium
+TKT-01007,Can you explain what is included in the premium plan? I need assistance with this problem.,product,medium
+TKT-00853,I need help changing my account details. Please help when convenient. Please advise.,account,low
+TKT-00127,"Hello support, I cannot download my receipt from the billing page. This is affecting my work but I can wait for a response.",billing,medium
+TKT-00117,Could you please help? The card payment failed even though my bank shows the amount as deducted. Please investigate this when possible today.,billing,medium
+TKT-00474,"Hello support, Notifications are not appearing in the app. This is affecting my work but I can wait for a response. I appreciate your help.",technical,medium
+TKT-00741,"Hello support, My account login is being rejected. I appreciate your help.",account,medium
+TKT-00993,Could you please help? The feature I need is missing from my current package. This is blocking my work right now. I appreciate your help.,product,high
+TKT-00058,"Hi team, Please explain the invoice for my recent purchase. Please resolve this as soon as possible. Thanks.",billing,high
+TKT-00604,"Hello support, How can I enable two-factor authentication? This is a critical issue and is affecting my service. Thanks.",account,high
+TKT-00787,"Hi team, My account was locked after several login attempts. Please investigate this when possible today. Thanks.",account,medium
+TKT-00971,"Support team, Please explain how the new dashboard feature works.",product,high
+TKT-00657,"Hello support, My password reset link is not working. This is urgent and needs immediate attention. Thanks.",account,high
+TKT-00903,Please help: The feature I need is missing from my current package. This is blocking my work right now. Please advise.,product,high
+TKT-00922,"Hi team, The new feature is not available on my plan. This is a critical issue and is affecting my service. Thanks.",product,high
+TKT-00106,Please help: I was charged $25 twice for my order. Please advise.,billing,medium
+TKT-00636,My verification code is not arriving. Thank you.,account,high
+TKT-00370,The application crashes when I open the dashboard. This is blocking my work right now.,technical,high
+TKT-00269,My invoice has the wrong tax amount. I would like some information about this. I appreciate your help.,billing,low
+TKT-00656,Could you please help? I cannot access my profile. Please advise.,account,high
+TKT-00047,"Hello support, The refund has not appeared in my account yet. This is a critical issue and is affecting my service.",billing,high
+TKT-00350,"Support team, The page keeps timing out before it finishes loading. Please resolve this as soon as possible. I appreciate your help.",technical,high
+TKT-00774,Could you please help? I cannot access my profile. Please help me resolve this soon. Please advise.,account,medium
+TKT-00196,"Support team, Can you help me update my billing details?",billing,medium
+TKT-00103,I need assistance: My payment of $75 went through but the subscription is still inactive. I would appreciate a timely solution. I appreciate your help.,billing,medium
+TKT-00005,I need a refund for an order I placed yesterday. This is a critical issue and is affecting my service. I appreciate your help.,billing,high
+TKT-00620,"Hello support, How can I enable two-factor authentication? I need help immediately because I cannot continue. I appreciate your help.",account,high
+TKT-00991,"Support team, How does the new reporting feature work? I appreciate your help.",product,high
+TKT-00053,I need assistance: I need a refund for an order I placed yesterday. This is urgent and needs immediate attention. Thanks.,billing,high
+TKT-00264,"Support team, My payment of $100 went through but the subscription is still inactive. I would like some information about this. Please advise.",billing,low
+TKT-01093,"Hello support, The feature I need is missing from my current package. I would appreciate a timely solution. Thank you.",product,medium
+TKT-00444,I need assistance: The application crashes when I open the dashboard. Please investigate this when possible today. Thanks.,technical,medium
+TKT-00972,Where can I find documentation for the new feature? This is a critical issue and is affecting my service. Thanks.,product,high
+TKT-00783,I need assistance: I need help changing my account details. I would appreciate a timely solution. I appreciate your help.,account,medium
+TKT-00847,Please help: My account login is being rejected. This is a general question. I appreciate your help.,account,low
+TKT-00692,"Hi team, How can I enable two-factor authentication? Please resolve this as soon as possible.",account,high
+TKT-00305,"Hi team, The search function returns an error every time. This is a critical issue and is affecting my service.",technical,high
+TKT-00342,"Hi team, Notifications are not appearing in the app. I need help immediately because I cannot continue. Thank you.",technical,high
+TKT-00867,"Support team, I forgot my password and cannot sign in. Please help when convenient. Thank you.",account,low
+TKT-00314,"Support team, I get a 500 error when trying to log in. This is blocking my work right now. I appreciate your help.",technical,high
+TKT-00150,"Hello support, My payment of $199 went through but the subscription is still inactive. The issue is important but not an emergency. Thanks.",billing,medium
+TKT-00125,Please help: I cannot download my receipt from the billing page. Please help me resolve this soon. Thanks.,billing,medium
+TKT-01063,I need assistance: Is this product feature available for all users? I would appreciate a timely solution. I appreciate your help.,product,medium
+TKT-00575,Could you please help? The application stopped working after the latest update. Please help when convenient. Thanks.,technical,low
+TKT-00698,I forgot my password and cannot sign in. Please treat this as a high-priority request. Thank you.,account,high
+TKT-00665,Please help: Please change the email address on my account. Please resolve this as soon as possible. Please advise.,account,high
+TKT-00051,"Support team, The refund has not appeared in my account yet. I appreciate your help.",billing,high
+TKT-00727,"Hi team, My password reset link is not working. Please help me resolve this soon. I appreciate your help.",account,medium
+TKT-00800,"Hi team, My verification code is not arriving. This is affecting my work but I can wait for a response. Thank you.",account,medium
+TKT-00354,The server appears to be down and I cannot use the service. I need help immediately because I cannot continue. Please advise.,technical,high
+TKT-01153,I need assistance: Can I upgrade my plan to get advanced reports? There is no immediate rush. Thank you.,product,low
+TKT-00143,Could you please help? I was charged $75 twice for my order. I would appreciate a timely solution. Thanks.,billing,medium
+TKT-00471,"Hello support, The server appears to be down and I cannot use the service. I appreciate your help.",technical,medium
+TKT-00654,"Hello support, I need help changing my account details. Please treat this as a high-priority request. Thanks.",account,high
+TKT-00400,Could you please help? The application stopped working after the latest update. Please resolve this as soon as possible. I appreciate your help.,technical,high
+TKT-01154,Please help: Does the basic plan include this functionality? This is a general question. Thanks.,product,low
+TKT-00938,"Hi team, Can I upgrade my plan to get advanced reports? Please resolve this as soon as possible. Please advise.",product,high
+TKT-00321,"Hello support, The software shows a blank screen after login. Thanks.",technical,high
+TKT-00020,"Hi team, Please explain the invoice for my recent purchase. I need help immediately because I cannot continue. I appreciate your help.",billing,high
+TKT-00685,I want to update my profile information. This is urgent and needs immediate attention. Thank you.,account,high
+TKT-00036,"Hello support, My invoice has the wrong tax amount. Thank you.",billing,high
+TKT-00825,Could you please help? How do I update my phone number? Please provide guidance when possible. Please advise.,account,low
+TKT-00506,"Hi team, The website is loading extremely slowly. Thank you.",technical,low
+TKT-00828,Please help: My password reset link is not working. This is a general question. Please advise.,account,low
+TKT-01071,Can you explain what is included in the premium plan?,product,medium
+TKT-00408,Could you please help? The application crashes when I open the dashboard. Please help me resolve this soon. Please advise.,technical,medium
+TKT-00818,"Hello support, My password reset link is not working. I can wait for a normal response. Thanks.",account,low
+TKT-00538,"Hi team, The software shows a blank screen after login. I would like some information about this. Please advise.",technical,low
+TKT-00759,I forgot my password and cannot sign in. The issue is important but not an emergency. Thank you.,account,medium
+TKT-01069,I need assistance: Please explain how the new dashboard feature works. The issue is important but not an emergency. I appreciate your help.,product,medium
+TKT-00893,"Hi team, Please change the email address on my account. There is no immediate rush. Thank you.",account,low
+TKT-00039,"Hello support, My payment of $75 went through but the subscription is still inactive. This is blocking my work right now.",billing,high
+TKT-00176,"Hi team, I need a refund for an order I placed yesterday. Please advise.",billing,medium
+TKT-00246,"Support team, I cannot download my receipt from the billing page. I appreciate your help.",billing,low
+TKT-00811,"Hello support, My verification code is not arriving. Please advise.",account,low
+TKT-01085,Please help: The new feature is not available on my plan. Please help me resolve this soon. Please advise.,product,medium
+TKT-01078,Could you please help? The feature I need is missing from my current package. The issue is important but not an emergency. Please advise.,product,medium
+TKT-00785,"Support team, My account login is being rejected. Please investigate this when possible today. Thank you.",account,medium
+TKT-01185,Could you please help? Does the basic plan include this functionality? I would like some information about this.,product,low
+TKT-00490,Please help: The website is loading extremely slowly. Please investigate this when possible today. Thanks.,technical,medium
+TKT-00155,My monthly bill contains an unexpected charge. I need assistance with this problem.,billing,medium
+TKT-00639,Please help: My account was locked after several login attempts. This is a critical issue and is affecting my service. Please advise.,account,high
+TKT-00663,Please help: Someone changed the email on my account and I cannot log in. Please treat this as a high-priority request. Thank you.,account,high
+TKT-00854,Could you please help? I want to update my profile information. There is no immediate rush. Please advise.,account,low
+TKT-00288,"Hi team, My invoice has the wrong tax amount. Please provide guidance when possible. Thanks.",billing,low
+TKT-00626,My verification code is not arriving.,account,high
+TKT-01200,"Hello support, Please explain how the new dashboard feature works. Please provide guidance when possible. Thanks.",product,low
+TKT-00686,"Hello support, My account login is being rejected. I appreciate your help.",account,high
+TKT-00873,"Support team, How do I update my phone number? Please provide guidance when possible. Thank you.",account,low
+TKT-00570,Please help: Notifications are not appearing in the app. I can wait for a normal response. Please advise.,technical,low
+TKT-01144,"Support team, Does the basic plan include this functionality? I can wait for a normal response. Thanks.",product,low
+TKT-00735,"Support team, I forgot my password and cannot sign in. I would appreciate a timely solution. Please advise.",account,medium
+TKT-00793,"Hello support, My password reset link is not working. I need assistance with this problem.",account,medium
+TKT-00018,"Hi team, My monthly bill contains an unexpected charge. Please treat this as a high-priority request.",billing,high
+TKT-00128,"Hello support, My payment of $100 went through but the subscription is still inactive. This is affecting my work but I can wait for a response. I appreciate your help.",billing,medium
+TKT-00323,"Hi team, I get a 500 error when trying to log in. Please treat this as a high-priority request. Thank you.",technical,high
+TKT-00256,The payment page keeps rejecting my card. Please advise.,billing,low
+TKT-00944,"Hello support, Can you explain what is included in the premium plan? This is urgent and needs immediate attention. I appreciate your help.",product,high
+TKT-01180,Could you please help? Does the basic plan include this functionality? This is a general question. Thank you.,product,low
+TKT-00191,Please explain the invoice for my recent purchase. I appreciate your help.,billing,medium
+TKT-00116,"Support team, My invoice has the wrong tax amount. I appreciate your help.",billing,medium
+TKT-01174,Could you please help? Where can I find documentation for the new feature? Please help when convenient. Thanks.,product,low
+TKT-00889,Please help: My password reset link is not working. Please help when convenient. Thank you.,account,low
+TKT-00607,I need assistance: My account was locked after several login attempts. This is a critical issue and is affecting my service. Thank you.,account,high
+TKT-00181,Please help: My payment of $75 went through but the subscription is still inactive. Thank you.,billing,medium
+TKT-00302,The search function returns an error every time. This is a critical issue and is affecting my service. Please advise.,technical,high
+TKT-00497,The search function returns an error every time. The issue is important but not an emergency. I appreciate your help.,technical,medium
+TKT-00349,"Hello support, I am getting an unexpected error while saving changes. Please resolve this as soon as possible. Thanks.",technical,high
+TKT-01036,Please help: The feature I need is missing from my current package. Thanks.,product,medium
+TKT-00983,How does the new reporting feature work? Please treat this as a high-priority request. Thank you.,product,high
+TKT-00745,"Support team, My verification code is not arriving. I would appreciate a timely solution.",account,medium
+TKT-01152,How does the new reporting feature work? Please help when convenient. Please advise.,product,low
+TKT-00518,"Support team, I am getting an unexpected error while saving changes. This is a general question. I appreciate your help.",technical,low
+TKT-00373,"Hi team, Notifications are not appearing in the app. Please resolve this as soon as possible. I appreciate your help.",technical,high
+TKT-00046,I need a refund for an order I placed yesterday. I appreciate your help.,billing,high
+TKT-00477,Could you please help? The server appears to be down and I cannot use the service. This is affecting my work but I can wait for a response. I appreciate your help.,technical,medium
+TKT-00158,"Hello support, My invoice has the wrong tax amount. Please investigate this when possible today. Thanks.",billing,medium
+TKT-01047,Could you please help? Can I upgrade my plan to get advanced reports? I need assistance with this problem. Please advise.,product,medium
+TKT-00172,Could you please help? The card payment failed even though my bank shows the amount as deducted. This is affecting my work but I can wait for a response.,billing,medium
+TKT-00017,"Hello support, I cannot download my receipt from the billing page. This is blocking my work right now. Please advise.",billing,high
+TKT-00512,I need assistance: Notifications are not appearing in the app. I would like some information about this. I appreciate your help.,technical,low
+TKT-00049,My payment of $25 went through but the subscription is still inactive. This is blocking my work right now. I appreciate your help.,billing,high
+TKT-00192,I need assistance: The card payment failed even though my bank shows the amount as deducted. This is affecting my work but I can wait for a response. Thanks.,billing,medium
+TKT-00547,Please help: The search function returns an error every time. Please provide guidance when possible. Please advise.,technical,low
+TKT-00516,"Hello support, Notifications are not appearing in the app.",technical,low
+TKT-00978,"Support team, I would like information about the latest product update. Please resolve this as soon as possible. Thank you.",product,high
+TKT-00939,I need assistance: Where can I find documentation for the new feature? I need help immediately because I cannot continue.,product,high
+TKT-00829,"Hi team, I need help changing my account details. I can wait for a normal response. Thank you.",account,low
+TKT-00984,"Hi team, How does the new reporting feature work? This is blocking my work right now. Thank you.",product,high
+TKT-00481,I cannot connect to the service from my computer. Thank you.,technical,medium
+TKT-01129,"Support team, The new feature is not available on my plan. Please provide guidance when possible. Thanks.",product,low
+TKT-00284,I need assistance: My monthly bill contains an unexpected charge. Please provide guidance when possible. Please advise.,billing,low
+TKT-01030,I need assistance: Where can I find documentation for the new feature? I need assistance with this problem. Thanks.,product,medium
+TKT-00798,I need assistance: I cannot access my profile. Please investigate this when possible today.,account,medium
+TKT-00940,"Hi team, Please explain how the new dashboard feature works. Please resolve this as soon as possible. Thanks.",product,high
+TKT-00226,Please help: I was charged $199 twice for my order. Thanks.,billing,low
+TKT-00027,"Hello support, Why was I charged a renewal fee? This is blocking my work right now. Thank you.",billing,high
+TKT-00283,I was charged $75 twice for my order. I can wait for a normal response. Thanks.,billing,low
+TKT-01150,"Support team, Which subscription includes analytics? I can wait for a normal response. Thank you.",product,low
+TKT-00438,"Hi team, The search function returns an error every time. Please help me resolve this soon. Please advise.",technical,medium
+TKT-01168,"Hello support, Can you explain what is included in the premium plan? There is no immediate rush. I appreciate your help.",product,low
+TKT-00365,"Support team, Notifications are not appearing in the app. Please treat this as a high-priority request. I appreciate your help.",technical,high
+TKT-00230,I cannot download my receipt from the billing page. This is a general question.,billing,low
+TKT-00038,Please help: I was charged $149 twice for my order. This is blocking my work right now.,billing,high
+TKT-00670,Please help: I want to update my profile information. This is blocking my work right now. Please advise.,account,high
+TKT-00750,Could you please help? My verification code is not arriving. I need assistance with this problem.,account,medium
+TKT-01181,Please help: I want to compare the available subscription plans. I appreciate your help.,product,low
+TKT-00375,I get a 500 error when trying to log in. Please treat this as a high-priority request. I appreciate your help.,technical,high
+TKT-00470,"Hi team, The search function returns an error every time. This is affecting my work but I can wait for a response. I appreciate your help.",technical,medium
+TKT-00883,Please help: How can I enable two-factor authentication? There is no immediate rush. Thanks.,account,low
+TKT-01182,"Support team, I want to compare the available subscription plans. I can wait for a normal response.",product,low
+TKT-00688,How do I update my phone number? This is urgent and needs immediate attention.,account,high
+TKT-00033,The card payment failed even though my bank shows the amount as deducted. This is blocking my work right now. Please advise.,billing,high
+TKT-01011,I would like information about the latest product update. Thank you.,product,medium
+TKT-01176,"Hi team, I want to compare the available subscription plans. Thank you.",product,low
+TKT-00195,Could you please help? The card payment failed even though my bank shows the amount as deducted. Please help me resolve this soon.,billing,medium
+TKT-01106,I need assistance: Is this product feature available for all users?,product,low
+TKT-01114,I need assistance: Is this product feature available for all users? There is no immediate rush.,product,low
+TKT-01064,"Hello support, Please explain how the new dashboard feature works. This is affecting my work but I can wait for a response. I appreciate your help.",product,medium
+TKT-00504,"Hi team, The application crashes when I open the dashboard. Please provide guidance when possible. Thanks.",technical,low
+TKT-00916,I need assistance: I want to compare the available subscription plans.,product,high
+TKT-00977,Can I upgrade my plan to get advanced reports? This is urgent and needs immediate attention. Thanks.,product,high
+TKT-01183,"Hello support, The new feature is not available on my plan. Please provide guidance when possible. I appreciate your help.",product,low
+TKT-01088,"Support team, Can you explain what is included in the premium plan? I would appreciate a timely solution.",product,medium
+TKT-00801,I need assistance: I cannot access my profile.,account,low
+TKT-00580,Please help: The application crashes when I open the dashboard. I would like some information about this. I appreciate your help.,technical,low
+TKT-00161,The card payment failed even though my bank shows the amount as deducted. Please advise.,billing,medium
+TKT-00681,"Hello support, My account was locked after several login attempts. Thanks.",account,high
+TKT-01198,"Hi team, Does the basic plan include this functionality? I would like some information about this. I appreciate your help.",product,low
+TKT-00163,Could you please help? My payment of $149 went through but the subscription is still inactive. I need assistance with this problem. Thank you.,billing,medium
+TKT-00822,"Hello support, I want to update my profile information. I can wait for a normal response. Thanks.",account,low
+TKT-00706,"Hello support, I want to update my profile information. Please advise.",account,medium
+TKT-01009,I need assistance: Does the basic plan include this functionality? I need assistance with this problem.,product,medium
+TKT-00878,"Hi team, My password reset link is not working. Please help when convenient.",account,low
+TKT-00896,"Support team, My password reset link is not working. I appreciate your help.",account,low
+TKT-00914,Please help: How does the new reporting feature work? This is urgent and needs immediate attention.,product,high
+TKT-01199,I need assistance: Can I upgrade my plan to get advanced reports? This is a general question. Thank you.,product,low
+TKT-00153,Could you please help? The card payment failed even though my bank shows the amount as deducted. I would appreciate a timely solution.,billing,medium
+TKT-00979,"Support team, Where can I find documentation for the new feature? Please resolve this as soon as possible. Thanks.",product,high
+TKT-01003,"Hello support, Where can I find documentation for the new feature? Please investigate this when possible today. Please advise.",product,medium
+TKT-00510,"Hi team, I cannot connect to the service from my computer. I would like some information about this.",technical,low
+TKT-00112,Could you please help? Why was I charged a renewal fee? I need assistance with this problem.,billing,medium
+TKT-00227,"Hi team, I was charged $50 twice for my order. I can wait for a normal response. I appreciate your help.",billing,low
+TKT-00986,"Hi team, Which subscription includes analytics? Please advise.",product,high
+TKT-00852,"Support team, My verification code is not arriving. I can wait for a normal response. Please advise.",account,low
+TKT-00104,"Hi team, Can you help me update my billing details? Please investigate this when possible today.",billing,medium
+TKT-00422,Please help: I cannot connect to the service from my computer. I need assistance with this problem. Please advise.,technical,medium
+TKT-00420,"Support team, The page keeps timing out before it finishes loading. Please help me resolve this soon. I appreciate your help.",technical,medium
+TKT-00625,I need assistance: I forgot my password and cannot sign in. Please treat this as a high-priority request. I appreciate your help.,account,high
+TKT-00587,"Support team, The application stopped working after the latest update. Please help when convenient. Thank you.",technical,low
+TKT-01061,"Hello support, I would like information about the latest product update. Thanks.",product,medium
+TKT-00920,"Hello support, The new feature is not available on my plan. Please resolve this as soon as possible. I appreciate your help.",product,high
+TKT-00673,"Hi team, How do I update my phone number? I need help immediately because I cannot continue. Please advise.",account,high
+TKT-00120,"Support team, I cannot download my receipt from the billing page. This is affecting my work but I can wait for a response. Thanks.",billing,medium
+TKT-00054,Please help: My monthly bill contains an unexpected charge. I need help immediately because I cannot continue.,billing,high
+TKT-00152,"Hi team, I need a refund for an order I placed yesterday. I would appreciate a timely solution. Thanks.",billing,medium
+TKT-00404,"Hello support, The server appears to be down and I cannot use the service. Please investigate this when possible today. Thanks.",technical,medium
+TKT-01189,"Support team, How does the new reporting feature work? I would like some information about this. I appreciate your help.",product,low
+TKT-00208,"Hi team, My payment of $199 went through but the subscription is still inactive. Please help when convenient. I appreciate your help.",billing,low
+TKT-01135,"Hi team, The feature I need is missing from my current package. There is no immediate rush. Thank you.",product,low
+TKT-00659,"Hi team, My password reset link is not working. This is urgent and needs immediate attention. I appreciate your help.",account,high
+TKT-01097,"Support team, Where can I find documentation for the new feature? I need assistance with this problem. I appreciate your help.",product,medium
+TKT-00233,Please help: My payment of $50 went through but the subscription is still inactive. There is no immediate rush.,billing,low
+TKT-00009,Could you please help? The card payment failed even though my bank shows the amount as deducted. Please resolve this as soon as possible. Please advise.,billing,high
+TKT-00160,Why was I charged a renewal fee? I need assistance with this problem. Thank you.,billing,medium
+TKT-00037,Could you please help? My monthly bill contains an unexpected charge. This is a critical issue and is affecting my service. I appreciate your help.,billing,high
+TKT-00453,Please help: Notifications are not appearing in the app. I need assistance with this problem. Thank you.,technical,medium
+TKT-00652,Could you please help? My password reset link is not working. This is blocking my work right now. Thank you.,account,high
+TKT-00254,Please help: I need a refund for an order I placed yesterday. There is no immediate rush.,billing,low
+TKT-00304,"Hello support, I get a 500 error when trying to log in. This is urgent and needs immediate attention.",technical,high
+TKT-00897,"Hi team, My verification code is not arriving. There is no immediate rush.",account,low
+TKT-01049,"Hello support, Can you explain what is included in the premium plan? The issue is important but not an emergency. Thanks.",product,medium
+TKT-00881,"Hello support, My verification code is not arriving. Thank you.",account,low
+TKT-00572,I am getting an unexpected error while saving changes. I can wait for a normal response.,technical,low
+TKT-00624,Please help: I forgot my password and cannot sign in. This is a critical issue and is affecting my service. Please advise.,account,high
+TKT-01145,Please help: Please explain how the new dashboard feature works. I would like some information about this. Thank you.,product,low
+TKT-01031,Which subscription includes analytics?,product,medium
+TKT-01146,"Hello support, I want to compare the available subscription plans. Thanks.",product,low
+TKT-00263,"Support team, I cannot download my receipt from the billing page. Please provide guidance when possible. Thank you.",billing,low
+TKT-00611,Please help: My verification code is not arriving. Please advise.,account,high
+TKT-00298,"Hello support, I cannot download my receipt from the billing page. Please provide guidance when possible. I appreciate your help.",billing,low
+TKT-00990,I need assistance: Can you explain what is included in the premium plan? Please resolve this as soon as possible. Thank you.,product,high
+TKT-00415,Please help: The application stopped working after the latest update. Please investigate this when possible today.,technical,medium
+TKT-00151,Please help: Please explain the invoice for my recent purchase. Please advise.,billing,medium
+TKT-00946,"Support team, I would like information about the latest product update.",product,high
+TKT-00473,I need assistance: The page keeps timing out before it finishes loading. Please investigate this when possible today. Thank you.,technical,medium
+TKT-00953,"Support team, Does the basic plan include this functionality? This is blocking my work right now. I appreciate your help.",product,high
+TKT-00988,"Hello support, Can I upgrade my plan to get advanced reports? Please treat this as a high-priority request. Please advise.",product,high
+TKT-00779,"Hello support, I forgot my password and cannot sign in. I would appreciate a timely solution. Thanks.",account,medium
+TKT-00641,"Hello support, I want to update my profile information. Please advise.",account,high
+TKT-01190,The feature I need is missing from my current package. Please help when convenient.,product,low
+TKT-01143,"Hello support, I want to compare the available subscription plans. I can wait for a normal response.",product,low
+TKT-00551,Please help: The page keeps timing out before it finishes loading.,technical,low
+TKT-00640,"Hi team, I forgot my password and cannot sign in. Please treat this as a high-priority request. I appreciate your help.",account,high
+TKT-00936,"Hello support, I want to compare the available subscription plans. Thank you.",product,high
+TKT-00929,Where can I find documentation for the new feature? Please treat this as a high-priority request. Thank you.,product,high
+TKT-00489,"Hi team, The search function returns an error every time. I need assistance with this problem. Thank you.",technical,medium
+TKT-00820,Could you please help? My password reset link is not working. Please help when convenient. I appreciate your help.,account,low
+TKT-00711,I need assistance: I want to update my profile information. Please advise.,account,medium
+TKT-01081,I need assistance: Please explain how the new dashboard feature works. Please advise.,product,medium
+TKT-00148,"Support team, I cannot download my receipt from the billing page. Please investigate this when possible today.",billing,medium
+TKT-00147,I need assistance: My invoice has the wrong tax amount. The issue is important but not an emergency. Thank you.,billing,medium
+TKT-01175,Could you please help? I want to compare the available subscription plans. I can wait for a normal response. Thank you.,product,low
+TKT-00963,Could you please help? Please explain how the new dashboard feature works. Please treat this as a high-priority request. Thanks.,product,high
+TKT-00346,The application stopped working after the latest update. Thank you.,technical,high
+TKT-00403,Could you please help? I get a 500 error when trying to log in. Please help me resolve this soon. Thank you.,technical,medium
+TKT-00932,Could you please help? How does the new reporting feature work? Please resolve this as soon as possible. Thanks.,product,high
+TKT-00955,"Hi team, Where can I find documentation for the new feature? This is blocking my work right now. Please advise.",product,high
+TKT-01125,"Hello support, Which subscription includes analytics? Please help when convenient. I appreciate your help.",product,low
+TKT-00660,Could you please help? My password reset link is not working. This is a critical issue and is affecting my service. Please advise.,account,high
+TKT-00464,The application stopped working after the latest update. Please investigate this when possible today. Thank you.,technical,medium
+TKT-00187,Please help: I need a refund for an order I placed yesterday. I need assistance with this problem. Please advise.,billing,medium
+TKT-00609,I need assistance: I need help changing my account details. This is a critical issue and is affecting my service. Please advise.,account,high
+TKT-00144,I need assistance: Can you help me update my billing details? I need assistance with this problem. I appreciate your help.,billing,medium
+TKT-00752,Please help: I forgot my password and cannot sign in. This is affecting my work but I can wait for a response. Thanks.,account,medium
+TKT-00982,"Hi team, Is this product feature available for all users? This is urgent and needs immediate attention. I appreciate your help.",product,high
+TKT-00198,Could you please help? I need a refund for an order I placed yesterday. Please investigate this when possible today. Thanks.,billing,medium
+TKT-00884,Please help: How can I enable two-factor authentication? Please help when convenient. Thanks.,account,low
+TKT-00280,Please help: The payment page keeps rejecting my card. There is no immediate rush.,billing,low
+TKT-00294,Why was I charged a renewal fee? I would like some information about this. Please advise.,billing,low
+TKT-01089,"Hi team, Please explain how the new dashboard feature works. I need assistance with this problem. Thanks.",product,medium
+TKT-00401,I need assistance: The website is loading extremely slowly. Thanks.,technical,medium
+TKT-00123,"Hi team, My payment of $50 went through but the subscription is still inactive. I need assistance with this problem. Thank you.",billing,medium
+TKT-00203,I need assistance: My invoice has the wrong tax amount. I would like some information about this.,billing,low
+TKT-00836,My account was locked after several login attempts. Thank you.,account,low
+TKT-00247,My monthly bill contains an unexpected charge. This is a general question. I appreciate your help.,billing,low
+TKT-01140,"Support team, The new feature is not available on my plan. Please help when convenient. Thank you.",product,low
+TKT-00385,Could you please help? The page keeps timing out before it finishes loading. Please treat this as a high-priority request. Please advise.,technical,high
+TKT-00855,"Hi team, I forgot my password and cannot sign in. I can wait for a normal response. I appreciate your help.",account,low
+TKT-00220,Can you help me update my billing details? This is a general question. Thanks.,billing,low
+TKT-00642,"Hello support, I forgot my password and cannot sign in. This is a critical issue and is affecting my service. Thanks.",account,high
+TKT-00002,I need assistance: I need a refund for an order I placed yesterday. Please resolve this as soon as possible.,billing,high
+TKT-00113,"Hi team, The payment page keeps rejecting my card. Please investigate this when possible today. Thanks.",billing,medium
+TKT-00699,"Hello support, How can I enable two-factor authentication? This is a critical issue and is affecting my service. I appreciate your help.",account,high
+TKT-00952,I want to compare the available subscription plans. This is a critical issue and is affecting my service.,product,high
+TKT-01079,I need assistance: Does the basic plan include this functionality? Please help me resolve this soon. Please advise.,product,medium
+TKT-00442,The server appears to be down and I cannot use the service. Please help me resolve this soon. Thanks.,technical,medium
+TKT-00664,"Hi team, Please change the email address on my account. This is blocking my work right now. Thanks.",account,high
+TKT-01197,"Hi team, Does the basic plan include this functionality? Please help when convenient. I appreciate your help.",product,low
+TKT-00318,Please help: I am getting an unexpected error while saving changes. I need help immediately because I cannot continue. Thank you.,technical,high
+TKT-00649,Could you please help? I forgot my password and cannot sign in. This is blocking my work right now. Thanks.,account,high
+TKT-00710,Could you please help? My password reset link is not working. I would appreciate a timely solution. Thanks.,account,medium
+TKT-00973,Does the basic plan include this functionality? I need help immediately because I cannot continue. Thank you.,product,high
+TKT-00628,"Support team, Someone changed the email on my account and I cannot log in. This is blocking my work right now. Please advise.",account,high
+TKT-00633,"Hello support, I need help changing my account details. This is a critical issue and is affecting my service. Thank you.",account,high
+TKT-01172,I need assistance: I want to compare the available subscription plans. There is no immediate rush. Please advise.,product,low
+TKT-01107,Is this product feature available for all users? Please help when convenient. Thanks.,product,low
+TKT-00796,How can I enable two-factor authentication?,account,medium
+TKT-00646,Someone changed the email on my account and I cannot log in.,account,high
+TKT-01013,The feature I need is missing from my current package. Please help me resolve this soon.,product,medium
+TKT-00557,"Support team, The website is loading extremely slowly. Please provide guidance when possible. Please advise.",technical,low
+TKT-00682,"Support team, I need help changing my account details. I need help immediately because I cannot continue. Thanks.",account,high
+TKT-00578,The website is loading extremely slowly. I would like some information about this. Thank you.,technical,low
+TKT-00525,I need assistance: I am getting an unexpected error while saving changes. Please provide guidance when possible. Thanks.,technical,low
+TKT-01060,Please help: Is this product feature available for all users? I would appreciate a timely solution. Please advise.,product,medium
+TKT-00541,The website is loading extremely slowly. Thanks.,technical,low
+TKT-00749,"Hello support, How do I update my phone number? Please investigate this when possible today. I appreciate your help.",account,medium
+TKT-01110,Please help: I want to compare the available subscription plans. I would like some information about this. Thanks.,product,low
+TKT-00485,"Hi team, The page keeps timing out before it finishes loading. Please help me resolve this soon. Thank you.",technical,medium
+TKT-00096,"Hello support, Can you help me update my billing details? Thank you.",billing,high
+TKT-01021,Please help: The new feature is not available on my plan. I appreciate your help.,product,medium
+TKT-00564,I get a 500 error when trying to log in. There is no immediate rush. I appreciate your help.,technical,low
+TKT-00743,Could you please help? My verification code is not arriving. I need assistance with this problem.,account,medium
+TKT-00864,Please help: My account was locked after several login attempts. I can wait for a normal response.,account,low
+TKT-00892,"Support team, I need help changing my account details. Please help when convenient. Thanks.",account,low
+TKT-01039,The new feature is not available on my plan. The issue is important but not an emergency. I appreciate your help.,product,medium
+TKT-00207,Could you please help? The payment page keeps rejecting my card. Please provide guidance when possible. Thanks.,billing,low
+TKT-00393,"Hello support, The application stopped working after the latest update. Please resolve this as soon as possible. I appreciate your help.",technical,high
+TKT-00795,"Hi team, How can I enable two-factor authentication? This is affecting my work but I can wait for a response. Thank you.",account,medium
+TKT-00871,Please help: How can I enable two-factor authentication? Please advise.,account,low
+TKT-00398,"Support team, The mobile app freezes when I upload a file. Please treat this as a high-priority request. Thanks.",technical,high
+TKT-00767,"Hi team, My account login is being rejected. The issue is important but not an emergency. Thank you.",account,medium
+TKT-01100,"Support team, Can you explain what is included in the premium plan? I would appreciate a timely solution. I appreciate your help.",product,medium
+TKT-01029,I need assistance: The new feature is not available on my plan. I need assistance with this problem. Thank you.,product,medium
+TKT-00643,"Support team, My password reset link is not working. Please resolve this as soon as possible. Thank you.",account,high
+TKT-00613,"Hello support, I want to update my profile information. Please treat this as a high-priority request.",account,high
+TKT-00961,I need assistance: Is this product feature available for all users? I appreciate your help.,product,high
+TKT-00726,"Support team, I want to update my profile information. I appreciate your help.",account,medium
+TKT-00684,I need assistance: Someone changed the email on my account and I cannot log in. This is blocking my work right now. I appreciate your help.,account,high
+TKT-00099,The card payment failed even though my bank shows the amount as deducted. Please treat this as a high-priority request. Thanks.,billing,high
+TKT-00805,I need assistance: Someone changed the email on my account and I cannot log in. Please provide guidance when possible. Thanks.,account,low
+TKT-00407,"Hi team, The mobile app freezes when I upload a file. Please help me resolve this soon. Thank you.",technical,medium
+TKT-00503,The page keeps timing out before it finishes loading. I can wait for a normal response.,technical,low
+TKT-01072,"Hi team, How does the new reporting feature work? This is affecting my work but I can wait for a response. Please advise.",product,medium
+TKT-01057,"Hello support, Which subscription includes analytics? Please investigate this when possible today. Thank you.",product,medium
+TKT-00930,Please help: Which subscription includes analytics? Please treat this as a high-priority request. Please advise.,product,high
+TKT-00780,"Support team, I want to update my profile information. I would appreciate a timely solution. Thank you.",account,medium
+TKT-00201,"Support team, Can you help me update my billing details?",billing,low
+TKT-00135,"Hello support, The refund has not appeared in my account yet. I need assistance with this problem. Please advise.",billing,medium
+TKT-01052,Could you please help? Is this product feature available for all users? Please help me resolve this soon. Thanks.,product,medium
+TKT-00041,"Hello support, My payment of $149 went through but the subscription is still inactive. Thanks.",billing,high
+TKT-01018,Could you please help? I would like information about the latest product update. I need assistance with this problem. Thanks.,product,medium
+TKT-00231,I need assistance: My invoice has the wrong tax amount. Thank you.,billing,low
+TKT-00379,The search function returns an error every time. This is a critical issue and is affecting my service. Please advise.,technical,high
+TKT-00289,My payment of $50 went through but the subscription is still inactive. There is no immediate rush. Please advise.,billing,low
+TKT-00419,"Hello support, The mobile app freezes when I upload a file. The issue is important but not an emergency.",technical,medium
+TKT-00392,"Hello support, The software shows a blank screen after login. This is a critical issue and is affecting my service. I appreciate your help.",technical,high
+TKT-00593,"Support team, The software shows a blank screen after login. This is a general question. Thanks.",technical,low
+TKT-01087,Please help: I would like information about the latest product update. I would appreciate a timely solution. Thank you.,product,medium
+TKT-00648,Could you please help? I want to update my profile information. I need help immediately because I cannot continue. Please advise.,account,high
+TKT-00521,"Hello support, The page keeps timing out before it finishes loading. Thanks.",technical,low
+TKT-00065,"Hello support, My invoice has the wrong tax amount. I need help immediately because I cannot continue. Thank you.",billing,high
+TKT-00015,Could you please help? I was charged $199 twice for my order. Please resolve this as soon as possible. Please advise.,billing,high
+TKT-01065,"Hi team, Is this product feature available for all users? I need assistance with this problem. Thank you.",product,medium
+TKT-00493,"Hi team, The search function returns an error every time. Please help me resolve this soon. Thanks.",technical,medium
+TKT-00380,"Support team, I get a 500 error when trying to log in. This is urgent and needs immediate attention. Thanks.",technical,high
+TKT-00188,"Support team, The payment page keeps rejecting my card. Please investigate this when possible today. Please advise.",billing,medium
+TKT-00764,"Hi team, My password reset link is not working. I would appreciate a timely solution. Thank you.",account,medium
+TKT-00217,My invoice has the wrong tax amount. I can wait for a normal response. Please advise.,billing,low
+TKT-00792,I need assistance: My account login is being rejected. I need assistance with this problem. Thank you.,account,medium
+TKT-01077,"Hi team, How does the new reporting feature work? I need assistance with this problem.",product,medium
+TKT-00879,"Hello support, My account was locked after several login attempts. I would like some information about this.",account,low
+TKT-00338,I need assistance: The website is loading extremely slowly. This is blocking my work right now. Please advise.,technical,high
+TKT-00720,"Hello support, I forgot my password and cannot sign in. This is affecting my work but I can wait for a response. Thanks.",account,medium
+TKT-00296,"Support team, My payment of $199 went through but the subscription is still inactive. Please advise.",billing,low
+TKT-01017,Please help: Which subscription includes analytics? The issue is important but not an emergency. Thanks.,product,medium
+TKT-00456,The software shows a blank screen after login. I appreciate your help.,technical,medium
+TKT-00816,"Hi team, My account login is being rejected.",account,low
+TKT-00270,"Support team, My invoice has the wrong tax amount. There is no immediate rush. Thanks.",billing,low
+TKT-00996,The feature I need is missing from my current package. I appreciate your help.,product,high
+TKT-00202,Could you please help? Why was I charged a renewal fee? There is no immediate rush. Thank you.,billing,low
+TKT-00162,Please help: Why was I charged a renewal fee? The issue is important but not an emergency. Thank you.,billing,medium
+TKT-00730,"Hi team, I cannot access my profile. The issue is important but not an emergency. Please advise.",account,medium
+TKT-00402,I need assistance: The search function returns an error every time. Please help me resolve this soon. I appreciate your help.,technical,medium
+TKT-00703,Please help: How can I enable two-factor authentication? This is affecting my work but I can wait for a response. I appreciate your help.,account,medium
+TKT-01130,I need assistance: Can I upgrade my plan to get advanced reports? Please help when convenient. Thank you.,product,low
+TKT-00566,Please help: The website is loading extremely slowly.,technical,low
+TKT-01022,"Support team, Please explain how the new dashboard feature works. This is affecting my work but I can wait for a response. Thanks.",product,medium
+TKT-01026,"Support team, Can you explain what is included in the premium plan? I appreciate your help.",product,medium
+TKT-01105,"Hello support, Please explain how the new dashboard feature works. There is no immediate rush. I appreciate your help.",product,low
+TKT-00206,"Hello support, I cannot download my receipt from the billing page. Please advise.",billing,low
+TKT-00035,The refund has not appeared in my account yet. This is a critical issue and is affecting my service. Please advise.,billing,high
+TKT-00776,I need assistance: How can I enable two-factor authentication?,account,medium
+TKT-00509,"Support team, The page keeps timing out before it finishes loading. Please provide guidance when possible. Please advise.",technical,low
+TKT-01184,I need assistance: Does the basic plan include this functionality? Please provide guidance when possible. Thanks.,product,low
+TKT-00092,"Support team, I was charged $75 twice for my order. This is a critical issue and is affecting my service. Thank you.",billing,high
+TKT-00898,Could you please help? I need help changing my account details. I would like some information about this. I appreciate your help.,account,low
+TKT-00565,"Support team, The page keeps timing out before it finishes loading. I can wait for a normal response. Thank you.",technical,low
+TKT-00777,My account was locked after several login attempts. The issue is important but not an emergency. Thank you.,account,medium
+TKT-00242,Please help: The refund has not appeared in my account yet. This is a general question. Please advise.,billing,low
+TKT-00014,I need assistance: My monthly bill contains an unexpected charge. Please resolve this as soon as possible.,billing,high
+TKT-00316,"Support team, The page keeps timing out before it finishes loading. I appreciate your help.",technical,high
+TKT-00601,"Support team, My verification code is not arriving. Thank you.",account,high
+TKT-00388,"Hi team, The search function returns an error every time. This is blocking my work right now. Thank you.",technical,high
+TKT-00167,Could you please help? My invoice has the wrong tax amount. Please help me resolve this soon. Thanks.,billing,medium
+TKT-00841,Please change the email address on my account.,account,low
+TKT-00021,Could you please help? I need a refund for an order I placed yesterday.,billing,high
+TKT-00647,"Hi team, I need help changing my account details. This is urgent and needs immediate attention. I appreciate your help.",account,high
+TKT-01155,"Hi team, Can you explain what is included in the premium plan? Please provide guidance when possible.",product,low
+TKT-00832,"Hello support, I forgot my password and cannot sign in. I would like some information about this.",account,low
+TKT-00563,"Support team, I get a 500 error when trying to log in. This is a general question. Please advise.",technical,low
+TKT-01171,Please help: I would like information about the latest product update. I appreciate your help.,product,low
+TKT-00687,I need assistance: I forgot my password and cannot sign in. Please treat this as a high-priority request. Thanks.,account,high
+TKT-00958,I need assistance: Can you explain what is included in the premium plan? I need help immediately because I cannot continue. Please advise.,product,high
+TKT-00190,I need assistance: Please explain the invoice for my recent purchase. Please help me resolve this soon. I appreciate your help.,billing,medium
+TKT-00976,I need assistance: The new feature is not available on my plan. Thank you.,product,high
+TKT-00700,Please help: Please change the email address on my account. This is a critical issue and is affecting my service. Thanks.,account,high
+TKT-00511,Could you please help? The application stopped working after the latest update.,technical,low
+TKT-01083,Please help: Is this product feature available for all users? I would appreciate a timely solution. Thank you.,product,medium
+TKT-00475,Could you please help? I am getting an unexpected error while saving changes. I would appreciate a timely solution. I appreciate your help.,technical,medium
+TKT-00857,I cannot access my profile. Please provide guidance when possible. Thank you.,account,low
+TKT-00748,"Hi team, My account was locked after several login attempts. I would appreciate a timely solution. Please advise.",account,medium
+TKT-00253,"Hello support, I was charged $149 twice for my order. There is no immediate rush. Please advise.",billing,low
+TKT-00022,Please help: I need a refund for an order I placed yesterday. This is blocking my work right now. Please advise.,billing,high
+TKT-00460,The website is loading extremely slowly. The issue is important but not an emergency. Please advise.,technical,medium
+TKT-00277,"Hello support, The payment page keeps rejecting my card. Please help when convenient. Thank you.",billing,low
+TKT-00956,I need assistance: I would like information about the latest product update. Please advise.,product,high
+TKT-00386,Could you please help? The website is loading extremely slowly. I appreciate your help.,technical,high
+TKT-00806,Please help: My account was locked after several login attempts. Please advise.,account,low
+TKT-00344,"Support team, The server appears to be down and I cannot use the service. Please treat this as a high-priority request. Thanks.",technical,high
+TKT-00770,I need assistance: Please change the email address on my account. Please investigate this when possible today. Thanks.,account,medium
+TKT-00131,Could you please help? The refund has not appeared in my account yet. Thanks.,billing,medium
+TKT-00872,I need assistance: Please change the email address on my account. I can wait for a normal response. I appreciate your help.,account,low
+TKT-01124,Could you please help? How does the new reporting feature work? Please provide guidance when possible. I appreciate your help.,product,low
+TKT-00088,Could you please help? I was charged $25 twice for my order. This is blocking my work right now. Thank you.,billing,high
+TKT-00331,"Support team, The application stopped working after the latest update. I appreciate your help.",technical,high
+TKT-00467,Could you please help? The software shows a blank screen after login. This is affecting my work but I can wait for a response. Thank you.,technical,medium
+TKT-00122,"Support team, The refund has not appeared in my account yet. I need assistance with this problem. Please advise.",billing,medium
+TKT-01045,I need assistance: Is this product feature available for all users? I would appreciate a timely solution. Thanks.,product,medium
+TKT-01096,I need assistance: Please explain how the new dashboard feature works. Please advise.,product,medium
+TKT-01131,The new feature is not available on my plan. Thank you.,product,low
+TKT-00861,"Support team, I want to update my profile information. Thank you.",account,low
+TKT-01127,I need assistance: Can you explain what is included in the premium plan? This is a general question. I appreciate your help.,product,low
